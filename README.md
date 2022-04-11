@@ -1,5 +1,5 @@
-# Bloom Bot: Dragon
-<img src="https://media.discordapp.net/attachments/805367955923533845/813066459281489981/icon3.png" width="100" height="100">
+# Bot: Roarrrrrrrrr
+<img src="https://cdn.discordapp.com/avatars/309182131811254272/241b0c7ecade961c9421949897fe7c4d.webp?size=4096" width="100" height="100">
 An AdventureQuest Worlds Discord Helper bot. Completely overhauled from scratch and ported from python to js. To invite the bot, simply use the link below. For any suggestions or concerns, join the Support Discord Server and we will help you.
 
 &nbsp;
