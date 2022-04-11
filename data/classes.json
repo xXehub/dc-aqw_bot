@@ -1,0 +1,4452 @@
+{
+    "Abyssal Angel's Shadow":{
+        "acronym":[
+            "Aba",
+            "AAS",
+            "AA"
+        ],
+        "awe_enh":"Awe Blast",
+        "duplicates":[
+            "Abyssal Angel"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/abyssal-angel-ac",
+        "stats":{
+            "solo":4,
+            "def":5,
+            "sup":0,
+            "gdps":0,
+            "pvp":4,
+            "farm":4,
+            "dmg":3,
+            "bludrut":3
+        },
+        "tags":[
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"seasonal",
+        "location":"Shop, Seasonal, Black Friday, 2k AC",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615837964664892/Abyssal_Angels_Shadow_Class_Chart.png"
+    },
+    "Alpha Omega":{
+        "acronym":[
+            "AO"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Alpha DOOMmega"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/alpha-omega-non-legend",
+        "stats":{
+            "solo":0,
+            "def":2,
+            "sup":0,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":0,
+            "bludrut":2
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"D",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Merge, 300 PvP trophies, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615844553523220/Alpha_Omega_Class_Chart.png"
+    },
+    "Alpha Pirate":{
+        "acronym":"",
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Pirate"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/alpha-pirate-class"
+    },
+    "Frost SpiritReaver":{
+        "acronym":[
+            "FSR"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/frost-spiritreaver-class",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":2,
+            "gdps":4,
+            "pvp":5,
+            "farm":3,
+            "dmg":4,
+            "bludrut":4
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"B",
+            "fast_obtain_method":"3 4",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Quest, /icedungeon",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616211383681054/Frost_SpiritReaver_Class_Chart.png"
+    },
+    "Psionic MindBreaker":{
+        "acronym":[
+            "PMB"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/psionic-mindbreaker",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":2,
+            "gdps":5,
+            "pvp":3,
+            "farm":3,
+            "dmg":4,
+            "bludrut":4
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"12k AC, Bonus Package",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865853318940721152/Psionic_MindBreaker_Class_Chart.png"
+    },
+    "Arachnomancer":{
+        "acronym":[
+            "Arach"
+        ],
+        "awe_enh":"Spiral Carve or Mana Vamp",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/arachnomancer-non-ac",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":4,
+            "gdps":4,
+            "pvp":0,
+            "farm":0,
+            "dmg":1,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Rep, r10 Ravenloss",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615849745416212/Arachnomancer_Class_Chart.png"
+    },
+    "ArchPaladin":{
+        "acronym":[
+            "AP",
+            "Arch"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/archpaladin-class-0-ac",
+        "stats":{
+            "solo":4,
+            "def":6,
+            "sup":4,
+            "gdps":3,
+            "pvp":4,
+            "farm":3,
+            "dmg":3,
+            "bludrut":6
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"S",
+            "fast_obtain_method":"1 2 3 4",
+            "fast_obtain_difficulty":"C"
+        },
+        "type":"available",
+        "location":"Questline - from Artix in /darkthronehub",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615854825242644/ArchPaladin_Class_Chart.png"
+    },
+    "Legendary Archfiend":{
+        "acronym":[
+            "AF",
+            "Arch"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "ArchFiend"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/archfiend",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":4,
+            "gdps":4,
+            "pvp":0,
+            "farm":2,
+            "dmg":2,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"D",
+            "fast_obtain_method":"2",
+            "fast_obtain_difficulty":"E"
+        },
+        "type":"available",
+        "location":"Merge, 30 Fiend Tokens, via /tercessuinotlim",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616328006041610/Legendary_Archfiend_Class_Chart.png"
+    },
+    "Artifact Hunter":{
+        "acronym":[
+            "AH"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/artifact-hunter-class-ac",
+        "stats":{
+            "solo":3,
+            "def":4,
+            "sup":0,
+            "gdps":0,
+            "pvp":5,
+            "farm":0,
+            "dmg":4,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":false,
+            "obtain_difficulty":"B",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"C"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615859975716864/Artifact_Hunter_Class_Chart.png"
+    },
+    "Barber":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/barber",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":3,
+            "gdps":0,
+            "pvp":2,
+            "farm":0,
+            "dmg":2,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"No Req",
+            "irl_money":false,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"available",
+        "location":"Shop, 20k gold",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615868154216468/Barber_Class_Chart.png"
+    },
+    "Bard":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Awe Blast",
+        "duplicates":[
+            "Troubador of Love"
+        ],
+        "enh":"luck",
+        "tags":[
+            "member_only"
+        ],
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/bard-class",
+        "stats":{
+            "solo":0,
+            "def":2,
+            "sup":4,
+            "gdps":3,
+            "pvp":"00",
+            "farm":0,
+            "dmg":0,
+            "bludrut":"00"
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"E",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Rep, r4 Mythsong",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615875188326410/Bard_Class_Chart.png"
+    },
+    "Royal BattleMage":{
+        "acronym":[
+            "RBM",
+            "BM"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "BattleMage of Love",
+            "Dark BattleMage",
+            "BattleMage"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/battlemage-class",
+        "stats":{
+            "solo":2,
+            "def":3,
+            "sup":2,
+            "gdps":0,
+            "pvp":4,
+            "farm":3,
+            "dmg":2,
+            "bludrut":4
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"D",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Rep, r10 Swordhaven",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616589365575700/Royal_BattleMage_Class_Chart.png"
+    },
+    "BeastMaster":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/beastmaster-non-ac",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":1,
+            "gdps":0,
+            "pvp":2,
+            "farm":0,
+            "dmg":2,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"C",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Rep, r10 Beastmaster",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615880750891018/BeastMaster_Class_Chart.png"
+    },
+    "Berserker":{
+        "acronym":[
+            "Zerker"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Beta Berserker"
+        ],
+        "enh":"luck",
+        "tags":[
+            "member_only"
+        ],
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/berserker",
+        "stats":{
+            "solo":1,
+            "def":2,
+            "sup":0,
+            "gdps":0,
+            "pvp":"00",
+            "farm":0,
+            "dmg":1,
+            "bludrut":"00"
+        },
+        "acquire":{
+            "ac_version":"No Req",
+            "irl_money":true,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"available",
+        "location":"Shop, 5k gold, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615887599009822/Berserker_Class_Chart.png"
+    },
+    "SwordMaster":{
+        "acronym":[
+            "BM",
+            "SM"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "BladeMaster"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/blademaster-ac",
+        "stats":{
+            "solo":4,
+            "def":5,
+            "sup":2,
+            "gdps":0,
+            "pvp":4,
+            "farm":0,
+            "dmg":3,
+            "bludrut":3
+        },
+        "tags":[
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"A",
+            "fast_obtain_method":"2",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Merge, Seasonal, Legion, 2k LT",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616678050463764/SwordMaster_Class_Chart.png"
+    },
+    "SwordMaster Assassin":{
+        "acronym":[
+            "BMA",
+            "SMA"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "BladeMaster Assassin"
+        ],
+        "enh":"luck",
+        "note":"To reach full Evasion, use Thief and a Potion of Evasion.",
+        "wiki":"http://aqwwiki.wikidot.com/blademaster-assassin-class",
+        "stats":{
+            "solo":3,
+            "def":4,
+            "sup":0,
+            "gdps":0,
+            "pvp":4,
+            "farm":4,
+            "dmg":3,
+            "bludrut":4
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"seasonal",
+        "location":"Shop, Seasonal, Dage Bday, 2k AC",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616670902845490/SwordMaster_Assassin_Class_Chart.png"
+    },
+    "Blaze Binder":{
+        "acronym":[
+            "BB",
+            "FLS"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "FireLord Summoner"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/blaze-binder-merge",
+        "stats":{
+            "solo":0,
+            "def":3,
+            "sup":0,
+            "gdps":0,
+            "pvp":4,
+            "farm":4,
+            "dmg":2,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"A",
+            "fast_obtain_method":"1 2",
+            "fast_obtain_difficulty":"C"
+        },
+        "type":"available",
+        "location":"Rep - r10 Embersea, r10 Doomwood, Pyro",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615895379312700/Blaze_Binder_Class_Chart.png"
+    },
+    "Blood Ancient":{
+        "acronym":[
+            "BA"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "tags":[
+            "member_only"
+        ],
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/blood-ancient-merge",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":2,
+            "gdps":0,
+            "pvp":0,
+            "farm":0,
+            "dmg":1,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"E",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Merge, 25 Ancient Vitae, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615903215452180/Blood_Ancient_Class_Chart.png"
+    },
+    "Blood Sorceress":{
+        "acronym":[
+            "BS"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/blood-sorceress",
+        "stats":{
+            "solo":0,
+            "def":0,
+            "sup":0,
+            "gdps":0,
+            "pvp":0,
+            "farm":2,
+            "dmg":0,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"E",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Drop in /towerofmirrors",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615908319002634/Blood_Sorceress_Class_Chart.png"
+    },
+    "Blood Titan":{
+        "acronym":[
+            "BT"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "tags":[
+            "member_only"
+        ],
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/blood-titan-legend",
+        "stats":{
+            "solo":2,
+            "def":3,
+            "sup":0,
+            "gdps":0,
+            "pvp":0,
+            "farm":0,
+            "dmg":1,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"D",
+            "fast_obtain_method":"4",
+            "fast_obtain_difficulty":"E"
+        },
+        "type":"available",
+        "location":"Merge, 450 Blood Titan Tokens, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615913914728518/Blood_Titan_Class_Chart.png"
+    },
+    "CardClasher":{
+        "acronym":[
+            "CC"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/cardclasher-class",
+        "stats":{
+            "solo":2,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":0,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"rare",
+        "location":"Heromart Reward",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615920100278292/CardClasher_Class_Chart.png"
+    },
+    "Chaos Shaper":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/chaos-shaper-class",
+        "stats":{
+            "solo":1,
+            "def":2,
+            "sup":0,
+            "gdps":0,
+            "pvp":0,
+            "farm":0,
+            "dmg":1,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, 15 month member bonus",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615927906926622/Chaos_Shaper_Class_Chart.png"
+    },
+    "Chaos Slayer":{
+        "acronym":[
+            "CS",
+            "CSlayer"
+        ],
+        "awe_enh":"Health Vamp (Survivability), Spiral Carve (High DPS), Awe Blast (Support)",
+        "duplicates":[
+            "Chaos Champion Prime",
+            "Chaos Slayer Berserker",
+            "Chaos Slayer Cleric",
+            "Chaos Slayer Mystic",
+            "Chaos Slayer Thief",
+            "Dark Chaos Berserker"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/chaos-slayer-berserker-non-ac",
+        "stats":{
+            "solo":5,
+            "def":4,
+            "sup":4,
+            "gdps":5,
+            "pvp":4,
+            "farm":4,
+            "dmg":5,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"A",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"C"
+        },
+        "type":"available",
+        "location":"Rep, r10 Chaos + Comeplete Chaos Saga",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615932894609428/Chaos_Slayer_Class_Chart.png"
+    },
+    "Chronomancer":{
+        "acronym":[
+            "CP",
+            "CMP"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Chronomancer Prime"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/chronomancer",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":5,
+            "pvp":2,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Merge HeroPoint in /heromart",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865624561278255134/Chronomancer_Class_Chart.png"
+    },
+    "Chrono Assassin":{
+        "acronym":[
+            "CA"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"To maximize evasion, use thief enhancements to increase Evasion to 34.05%",
+        "wiki":"http://aqwwiki.wikidot.com/chrono-assassin-merge",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":0,
+            "gdps":0,
+            "pvp":4,
+            "farm":2,
+            "dmg":4,
+            "bludrut":3
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"B",
+            "fast_obtain_method":"4",
+            "fast_obtain_difficulty":"C"
+        },
+        "type":"available",
+        "location":"Merge, /tachyon, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615940031742001/Chrono_Assassin_Class_Chart.png"
+    },
+    "Chrono DragonKnight":{
+        "acronym":[
+            "CDK"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Chrono DataKnight"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/chrono-dragonknight-class",
+        "stats":{
+            "solo":0,
+            "def":0,
+            "sup":0,
+            "gdps":6,
+            "pvp":0,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Merge HeroPoint in /heromart",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865624547168616448/Chrono_DragonKnight_Class_Chart.png"
+    },
+    "ChronoCommander":{
+        "acronym":[
+            "CC",
+            "ChronoCom",
+            "ChComm",
+            "CCmd"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "ChronoCommandant"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/chronocommander",
+        "stats":{
+            "solo":1,
+            "def":3,
+            "sup":0,
+            "gdps":6,
+            "pvp":2,
+            "farm":0,
+            "dmg":1,
+            "bludrut":0
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Merge HeroPoint in /heromart",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615953994711080/ChronoCommander_Class_Chart.png"
+    },
+    "ChronoCorruptor":{
+        "acronym":[
+            "CC",
+            "CcoR",
+            "CCP"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "ChronoChaorruptor"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/chronocorruptor",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":3,
+            "pvp":2,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865624554185031721/ChronoCorruptor_Class_Chart.png"
+    },
+    "Imperial Chunin":{
+        "acronym":[
+            "IC",
+            "ImC"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Chunin"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/imperial-chunin",
+        "stats":{
+            "solo":3,
+            "def":4,
+            "sup":2,
+            "gdps":0,
+            "pvp":3,
+            "farm":3,
+            "dmg":2,
+            "bludrut":2
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Rep, r10 Yokai, /dragonkoiz",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616294722928700/Imperial_Chunin_Class_Chart.png"
+    },
+    "Classic Alpha Pirate":{
+        "acronym":"",
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Classic Pirate"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/classic-alpha-pirate"
+    },
+    "Classic Barber":{
+        "acronym":"",
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/classic-barber"
+    },
+    "Classic Defender":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/classic-defender-1",
+        "stats":{
+            "solo":0,
+            "def":0,
+            "sup":1,
+            "gdps":0,
+            "pvp":"00",
+            "farm":0,
+            "dmg":0,
+            "bludrut":"00"
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, /tower, verification",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615973247483934/Classic_Defender_Class_Chart.png"
+    },
+    "Classic DoomKnight":{
+        "acronym":[
+            "Classic DmK"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/classic-doomknight-non-ac",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":"00",
+            "farm":0,
+            "dmg":1,
+            "bludrut":"00"
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":true,
+            "obtain_difficulty":"D",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Quest, r10 Warrior, r10 Healer, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615978200563762/Classic_DoomKnight_Class_Chart.png"
+    },
+    "Classic DragonLord":{
+        "acronym":[
+            "Classic DL"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/classic-dragonlord",
+        "stats":{
+            "solo":2,
+            "def":3,
+            "sup":1,
+            "gdps":0,
+            "pvp":"00",
+            "farm":1,
+            "dmg":2,
+            "bludrut":"00"
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, /tower, verification",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615983963668490/Classic_DragonLord_Class_Chart.png"
+    },
+    "Classic Guardian":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/classic-guardian",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":"00",
+            "farm":0,
+            "dmg":1,
+            "bludrut":"00"
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, /tower, verification",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615998074093588/Classic_Guardian_Class_Chart.png"
+    },
+    "Classic Legion DoomKnight":{
+        "acronym":[
+            "CLDK",
+            "CLDmK"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/classic-legion-doomknight-ac",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":3,
+            "gdps":4,
+            "pvp":4,
+            "farm":3,
+            "dmg":4,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"A",
+            "fast_obtain_method":"2",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616005689245757/Classic_Legion_DoomKnight_Class_Chart.png"
+    },
+    "Classic Paladin":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/classic-paladin-class",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":"00",
+            "farm":0,
+            "dmg":1,
+            "bludrut":"00"
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":true,
+            "obtain_difficulty":"D",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Quest, r10 Warrior, r10 Healer, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616010497622046/Classic_Paladin_Class_Chart.png"
+    },
+    "Classic Exalted Soul Cleaver":{
+        "acronym":[
+            "CESC"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Classic Soul Cleaver"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/classic-soul-cleaver",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":1,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"A",
+            "fast_obtain_method":"2",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865615990536405003/Classic_Exalted_Soul_Cleaver_Class_Chart.png"
+    },
+    "ClawSuit":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/clawsuit",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":"00",
+            "farm":0,
+            "dmg":1,
+            "bludrut":"00"
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":false,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616018105434152/ClawSuit_Class_Chart.png"
+    },
+    "Underworld Chronomancer":{
+        "acronym":[
+            "UCM",
+            "UC",
+            "OCM"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Overworld Chronomancer"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/underworld-chronomancer-class",
+        "stats":{
+            "solo":5,
+            "def":5,
+            "sup":2,
+            "gdps":6,
+            "pvp":3,
+            "farm":0,
+            "dmg":6,
+            "bludrut":0
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Heromart, 2020 Calendar",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616732756115456/Underworld_Chronomancer_Class_Chart.png"
+    },
+    "Corrupted Chronomancer":{
+        "acronym":[
+            "CCM",
+            "TCM"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Timeless Chronomancer"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/corrupted-chronomancer-class",
+        "stats":{
+            "solo":5,
+            "def":5,
+            "sup":0,
+            "gdps":6,
+            "pvp":2,
+            "farm":0,
+            "dmg":6,
+            "bludrut":0
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"rare",
+        "location":"Heromart, 2019 Calendar",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616023923326977/Corrupted_Chronomancer_Class_Chart.png"
+    },
+    "Cryomancer":{
+        "acronym":[
+            "Cryo"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Dark Cryomancer",
+            "Sakura Cryomancer"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/cryomancer-merge",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":0,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"B",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"C"
+        },
+        "type":"available",
+        "location":"Merge, Daily",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616031275417610/Cryomancer_Class_Chart.png"
+    },
+    "Daimon":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve or Mana Vamp",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"Use Mana Vamp if in need of Mana.",
+        "wiki":"http://aqwwiki.wikidot.com/daimon-legend",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":3,
+            "gdps":0,
+            "pvp":4,
+            "farm":4,
+            "dmg":3,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"available",
+        "location":"Shop, 100k gold, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616036606771230/Daimon_Class_Chart.png"
+    },
+    "Dark Metal Necro":{
+        "acronym":[
+            "DMN",
+            "HMN",
+            "UR",
+            "SR"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Heavy Metal Necro",
+            "Heavy Metal Rockstar",
+            "Shadow Ripper",
+            "Unchained Rockstar"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/dark-metal-necro",
+        "stats":{
+            "solo":5,
+            "def":4,
+            "sup":0,
+            "gdps":4,
+            "pvp":3,
+            "farm":0,
+            "dmg":5,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":false,
+            "obtain_difficulty":"B",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"seasonal",
+        "location":"Merge",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616057287573504/Dark_Metal_Necro_Class_Chart.png"
+    },
+    "Darkblood StormKing":{
+        "acronym":[
+            "DBSK"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/darkblood-stormking-non-ac",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":0,
+            "gdps":0,
+            "pvp":2,
+            "farm":3,
+            "dmg":2,
+            "bludrut":2
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_method":"1 4",
+            "fast_obtain_difficulty":"E"
+        },
+        "type":"available",
+        "location":"Rep, r10 Thunderforge",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616069510692894/Darkblood_StormKing_Class_Chart.png"
+    },
+    "Darkside":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/darkside",
+        "stats":{
+            "solo":0,
+            "def":0,
+            "sup":0,
+            "gdps":0,
+            "pvp":0,
+            "farm":2,
+            "dmg":0,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":false,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616074308321280/Darkside_Class_Chart.png"
+    },
+    "Dark Lord":{
+        "acronym":[
+            "DaL"
+        ],
+        "awe_enh":"Awe Blast",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/dark-lord",
+        "stats":{
+            "solo":2,
+            "def":3,
+            "sup":0,
+            "gdps":0,
+            "pvp":0,
+            "farm":4,
+            "dmg":2,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"D",
+            "fast_obtain_method":"3 4",
+            "fast_obtain_difficulty":"E"
+        },
+        "type":"seasonal",
+        "location":"Merge at /murdermoon. Free at /curio with Darkside",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616044033703946/Dark_Lord_Class_Chart.png"
+    },
+    "DeathKnight":{
+        "acronym":[
+            "DK"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"fighter",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/deathknight-class-non-ac",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":0,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":4,
+            "bludrut":2
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"D",
+            "fast_obtain_method":"4",
+            "fast_obtain_difficulty":"E"
+        },
+        "type":"available",
+        "location":"Rep, r10 Doomwood, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616082198069308/DeathKnight_Class_Chart.png"
+    },
+    "DeathKnight Lord":{
+        "acronym":[
+            "DKL"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/deathknight-lord-class-ac-1",
+        "stats":{
+            "solo":2,
+            "def":3,
+            "sup":0,
+            "gdps":0,
+            "pvp":0,
+            "farm":1,
+            "dmg":0,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"B",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Merge, Daily, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616089718849536/DeathKnight_Lord_Class_Chart.png"
+    },
+    "Defender":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/defender-1",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":3,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":false,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, /tower, verification",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616096223428618/Defender_Class_Chart.png"
+    },
+    "DoomKnight Overlord":{
+        "acronym":[
+            "DKO"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/doomknight-overlord",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":2,
+            "gdps":4,
+            "pvp":2,
+            "farm":4,
+            "dmg":4,
+            "bludrut":2
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616110567948338/DoomKnight_Overlord_Class_Chart.png"
+    },
+    "Doomknight":{
+        "acronym":[
+            "DmK"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/doomknight-non-ac",
+        "stats":{
+            "solo":3,
+            "def":2,
+            "sup":3,
+            "gdps":3,
+            "pvp":3,
+            "farm":0,
+            "dmg":4,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"D",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Quest, r10 Warrior, r10 Healer, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616103824818206/Doomknight_Class_Chart.png"
+    },
+    "Dragon Knight":{
+        "acronym":[
+            "DK"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/dragon-knight-class",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":3,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616118583656459/Dragon_Knight_Class_Chart.png"
+    },
+    "DragonSoul Shinobi":{
+        "acronym":[
+            "DS",
+            "DShinobi",
+            "SDS",
+            "DSS"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Dragon Shinobi",
+            "Shadow Dragon Shinobi"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/dragonsoul-shinobi-class",
+        "stats":{
+            "solo":4,
+            "def":5,
+            "sup":0,
+            "gdps":3,
+            "pvp":4,
+            "farm":0,
+            "dmg":4,
+            "bludrut":3
+        },
+        "tags":[
+            
+        ],
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_method":"4",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Merge, r10 Yokai, completion of Shadow Shogun saga",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616156559015936/DragonSoul_Shinobi_Class_Chart.png"
+    },
+    "Dragon of Time":{
+        "acronym":[
+            "EDoT",
+            "DT",
+            "DoT"
+        ],
+        "awe_enh":"Health Vamp",
+        "duplicates":[
+            
+        ],
+        "enh":"healer",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/dragon-of-time-class",
+        "stats":{
+            "solo":5,
+            "def":5,
+            "sup":2,
+            "gdps":4,
+            "pvp":4,
+            "farm":4,
+            "dmg":5,
+            "bludrut":4
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"S",
+            "fast_obtain_method":"3 4",
+            "fast_obtain_difficulty":"B"
+        },
+        "type":"available",
+        "location":"Complete multiple Questline, /classhall",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616125332684871/Dragon_of_Time_Class_Chart.png"
+    },
+    "DragonLord":{
+        "acronym":[
+            "DL"
+        ],
+        "awe_enh":"Health Vamp",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/dragonlord-class",
+        "stats":{
+            "solo":2,
+            "def":4,
+            "sup":2,
+            "gdps":0,
+            "pvp":3,
+            "farm":4,
+            "dmg":2,
+            "bludrut":2
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, /tower, verification",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616133163450368/DragonLord_Class_Chart.png"
+    },
+    "Dragonslayer":{
+        "acronym":[
+            "DS"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/dragonslayer-class",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":"00",
+            "farm":0,
+            "dmg":1,
+            "bludrut":"00"
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"E",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Quest in /lair",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616139789533206/Dragonslayer_Class_Chart.png"
+    },
+    "Dragonslayer General":{
+        "acronym":[
+            "DSG"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "ShadowFlame DragonLord"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/dragonslayer-general-class-merge",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":0,
+            "gdps":3,
+            "pvp":3,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Merge, /dragontown and r10 Dragonslayer",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616149672755240/Dragonslayer_General_Class_Chart.png"
+    },
+    "Drakel Warlord":{
+        "acronym":[
+            "DW"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/drakel-warlord-legend",
+        "stats":{
+            "solo":2,
+            "def":4,
+            "sup":0,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":2,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"available",
+        "location":"Shop, 100k gold, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616162683355166/Drakel_Warlord_Class_Chart.png"
+    },
+    "Elemental Dracomancer":{
+        "acronym":[
+            "ED"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Love Caster"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/elemental-dracomancer-non-ac",
+        "stats":{
+            "solo":3,
+            "def":4,
+            "sup":2,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":2,
+            "bludrut":6
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Rep, r10 Etherstorm",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616170023780402/Elemental_Dracomancer_Class_Chart.png"
+    },
+    "Eternal Inversionist":{
+        "acronym":[
+            "EI"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/eternal-inversionist-class-non-ac",
+        "stats":{
+            "solo":0,
+            "def":2,
+            "sup":2,
+            "gdps":0,
+            "pvp":3,
+            "farm":2,
+            "dmg":0,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Rep, r10 Eternal",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616178474385449/Eternal_Inversionist_Class_Chart.png"
+    },
+    "Prismatic ClawSuit":{
+        "acronym":[
+            "PCS"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Evolved ClawSuit"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/evolved-clawsuit",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":0,
+            "gdps":4,
+            "pvp":0,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"No Req",
+            "irl_money":true,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"seasonal",
+        "location":"Shop, Seasonal, Free, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616566044721192/Prismatic_ClawSuit_Class_Chart.png"
+    },
+    "Evolved Leprechaun":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/evolved-leprechaun-merge",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":2,
+            "farm":0,
+            "dmg":1,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"D",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"seasonal",
+        "location":"Merge, Seasonal, Daily quest",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616186753155113/Evolved_Leprechaun_Class_Chart.png"
+    },
+    "Evolved Pumpkin Lord":{
+        "acronym":[
+            "EPL"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/evolved-pumpkin-lord-non-legend",
+        "stats":{
+            "solo":3,
+            "def":2,
+            "sup":0,
+            "gdps":0,
+            "pvp":4,
+            "farm":0,
+            "dmg":4,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"D",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Merge (Seasonal) / Drop, Mogloween",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616192147816448/Evolved_Pumpkin_Lord_Class_Chart.png"
+    },
+    "Evolved Shaman":{
+        "acronym":[
+            "ES",
+            "EShaman"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/evolved-shaman-non-ac",
+        "stats":{
+            "solo":2,
+            "def":3,
+            "sup":2,
+            "gdps":0,
+            "pvp":5,
+            "farm":3,
+            "dmg":2,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"B",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Rep, r10 Arcangrove",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616200180563988/Evolved_Shaman_Class_Chart.png"
+    },
+    "Soul Cleaver":{
+        "acronym":[
+            "SC",
+            "ESC",
+            "Harb"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Exalted Harbinger",
+            "Exalted Soul Cleaver",
+            "Dark Harbinger"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/exalted-harbinger",
+        "stats":{
+            "solo":3,
+            "def":2,
+            "sup":2,
+            "gdps":4,
+            "pvp":4,
+            "farm":0,
+            "dmg":3,
+            "bludrut":2
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"A",
+            "fast_obtain_method":"2",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Merge, Legion, 2k LT",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616649691070464/Soul_Cleaver_Class_Chart.png"
+    },
+    "Flame Dragon Warrior":{
+        "acronym":[
+            "FDW"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/flame-dragon-warrior-class",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":0,
+            "farm":1,
+            "dmg":1,
+            "bludrut":0
+        },
+        "tags":[
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, AQ:Dragons package, $10",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616205737361418/Flame_Dragon_Warrior_Class_Chart.png"
+    },
+    "Frostval Barbarian":{
+        "acronym":[
+            "FB",
+            "Barb"
+        ],
+        "awe_enh":"Awe Blast",
+        "duplicates":[
+            
+        ],
+        "enh":"fighter",
+        "note":"Use Awe Blast for Supporting",
+        "wiki":"http://aqwwiki.wikidot.com/frostval-barbarian-0-ac",
+        "stats":{
+            "solo":0,
+            "def":4,
+            "sup":4,
+            "gdps":4,
+            "pvp":0,
+            "farm":3,
+            "dmg":0,
+            "bludrut":2
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"seasonal",
+        "location":"Quest, 5 dailies, complete Frostvale storylines",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616218651885578/Frostval_Barbarian_Class_Chart.png"
+    },
+    "Glacial Berserker":{
+        "acronym":[
+            "GB"
+        ],
+        "awe_enh":"Awe Blast",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/glacial-berserker-class-non-ac",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":3,
+            "gdps":3,
+            "pvp":4,
+            "farm":0,
+            "dmg":4,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"seasonal",
+        "location":"Rep, r10 Glacial",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616223907741767/Glacial_Berserker_Class_Chart.png"
+    },
+    "Glacial Warlord":{
+        "acronym":[
+            "GW"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/glacial-warlord-class",
+        "stats":{
+            "solo":2,
+            "def":3,
+            "sup":1,
+            "gdps":0,
+            "pvp":0,
+            "farm":0,
+            "dmg":1,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616229376458772/Glacial_Warlord_Class_Chart.png"
+    },
+    "Great Thief":{
+        "acronym":[
+            "GT"
+        ],
+        "awe_enh":"Spiral Carve or Mana Vamp",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/great-thief",
+        "stats":{
+            "solo":6,
+            "def":6,
+            "sup":2,
+            "gdps":4,
+            "pvp":5,
+            "farm":0,
+            "dmg":4,
+            "bludrut":6
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616236728418334/Great_Thief_Class_Chart.png"
+    },
+    "Grim Necromancer":{
+        "acronym":[
+            "GN"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/grim-necromancer-class",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":0,
+            "gdps":4,
+            "pvp":4,
+            "farm":0,
+            "dmg":4,
+            "bludrut":2
+        },
+        "tags":[
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, 600k AC purchased badge",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616243460538378/Grim_Necromancer_Class_Chart.png"
+    },
+    "Guardian":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve or Awe Blast",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"Use Awe Blast for Soloing",
+        "wiki":"http://aqwwiki.wikidot.com/guardian-class",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":0,
+            "gdps":5,
+            "pvp":4,
+            "farm":0,
+            "dmg":4,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, /tower, verification",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616249898926140/Guardian_Class_Chart.png"
+    },
+    "Healer":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Acolyte",
+            "Healer (Rare)",
+            "Witch"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/healer",
+        "stats":{
+            "solo":0,
+            "def":4,
+            "sup":3,
+            "gdps":0,
+            "pvp":"00",
+            "farm":0,
+            "dmg":0,
+            "bludrut":"00"
+        },
+        "acquire":{
+            "ac_version":"No Req",
+            "irl_money":false,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"available",
+        "location":"Starter / Shop",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616257880686592/Healer_Class_Chart.png"
+    },
+    "HighSeas Commander":{
+        "acronym":[
+            "HSC",
+            "Highseas"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/highseas-commander",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":0,
+            "gdps":0,
+            "pvp":4,
+            "farm":2,
+            "dmg":4,
+            "bludrut":2
+        },
+        "acquire":{
+            "ac_version":"No Req",
+            "irl_money":false,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"available",
+        "location":"Shop, 10 years played badge",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616265750380594/HighSeas_Commander_Class_Chart.png"
+    },
+    "Horc Evader":{
+        "acronym":[
+            "HE",
+            "Horc"
+        ],
+        "awe_enh":"Mana Vamp",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"To maximize evasion, use thief enhancements to increase Evasion to 31.05%",
+        "wiki":"http://aqwwiki.wikidot.com/horc-evader-non-ac",
+        "stats":{
+            "solo":3,
+            "def":5,
+            "sup":0,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":3,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Rep, r10 Horc",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616272750149672/Horc_Evader_Class_Chart.png"
+    },
+    "Immortal Chronomancer":{
+        "acronym":[
+            "EC",
+            "IC",
+            "ECM",
+            "ICM"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Eternal Chronomancer",
+            "Empyrean Chronomancer"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/immortal-chronomancer-class-ac",
+        "stats":{
+            "solo":5,
+            "def":4,
+            "sup":0,
+            "gdps":6,
+            "pvp":0,
+            "farm":0,
+            "dmg":6,
+            "bludrut":2
+        },
+        "tags":[
+            "acs_only",
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"/curio, 6k AC, Speak to Chronis",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616279163502612/Immortal_Chronomancer_Class_Chart.png"
+    },
+    "Immortal Dark Caster":{
+        "acronym":[
+            "IDC",
+            "Immo DC",
+            "DC"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Dark Caster"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/immortal-dark-caster-class-0-ac",
+        "stats":{
+            "solo":4,
+            "def":5,
+            "sup":2,
+            "gdps":4,
+            "pvp":3,
+            "farm":4,
+            "dmg":4,
+            "bludrut":2
+        },
+        "tags":[
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"seasonal",
+        "location":"Shop, Seasonal, 2k AC",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616287996706816/Immortal_Dark_Caster_Class_Chart.png"
+    },
+    "Infinite Legion Dark Caster":{
+        "acronym":[
+            "IDC",
+            "ILDC",
+            "EDC",
+            "ELDC"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Evolved Dark Caster",
+            "Legion Evolved Dark Caster"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/infinite-dark-caster-ac",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":2,
+            "gdps":0,
+            "pvp":4,
+            "farm":3,
+            "dmg":3,
+            "bludrut":4
+        },
+        "tags":[
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"A",
+            "fast_obtain_method":"2",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Merge, Legion, 2k LT",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616304358162442/Infinite_Legion_Dark_Caster_Class_Chart.png"
+    },
+    "Infinity Knight":{
+        "acronym":[
+            "IK"
+        ],
+        "awe_enh":"Mana Vamp",
+        "duplicates":[
+            "Interstellar Knight"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/infinity-knight",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":0,
+            "gdps":4,
+            "pvp":4,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Merge HeroPoint in /heromart",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865624566328328222/Infinity_Knight_Class_Chart.png"
+    },
+    "Legendary Hero":{
+        "acronym":[
+            "LH"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Dark Legendary Hero"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/legendary-hero-class",
+        "stats":{
+            "solo":0,
+            "def":0,
+            "sup":2,
+            "gdps":0,
+            "pvp":0,
+            "farm":0,
+            "dmg":0,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616351409078272/Legendary_Hero_Class_Chart.png"
+    },
+    "Legion SwordMaster Assassin":{
+        "acronym":[
+            "LBMA",
+            "LSMA"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Legion BladeMaster Assassin"
+        ],
+        "enh":"luck",
+        "note":"To reach full Evasion, use Thief and a Potion of Evasion.",
+        "wiki":"http://aqwwiki.wikidot.com/legion-blademaster-assassin",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":0,
+            "gdps":0,
+            "pvp":5,
+            "farm":3,
+            "dmg":3,
+            "bludrut":5
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":true,
+            "obtain_difficulty":"A",
+            "fast_obtain_method":"2",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"seasonal",
+        "location":"Merge, Seasonal, Legion, 5k LT + 300 rocks",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616398923071524/Legion_SwordMaster_Assassin_Class_Chart.png"
+    },
+    "Legion DoomKnight":{
+        "acronym":[
+            "LDK",
+            "LDmK"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/legion-doomknight-class-ac",
+        "stats":{
+            "solo":5,
+            "def":4,
+            "sup":3,
+            "gdps":4,
+            "pvp":4,
+            "farm":3,
+            "dmg":5,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"A",
+            "fast_obtain_method":"2",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"seasonal",
+        "location":"Merge, Seasonal, Legion, 2k LT",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616360779677706/Legion_DoomKnight_Class_Chart.png"
+    },
+    "Legion Paladin":{
+        "acronym":[
+            "LP"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/legion-paladin-class",
+        "stats":{
+            "solo":2,
+            "def":1,
+            "sup":0,
+            "gdps":3,
+            "pvp":3,
+            "farm":0,
+            "dmg":2,
+            "bludrut":0
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616372313620480/Legion_Paladin_Class_Chart.png"
+    },
+    "Legion Revenant":{
+        "acronym":[
+            "LR"
+        ],
+        "awe_enh":"Awe Blast",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/legion-revenant-class",
+        "stats":{
+            "solo":5,
+            "def":5,
+            "sup":6,
+            "gdps":5,
+            "pvp":4,
+            "farm":5,
+            "dmg":5,
+            "bludrut":6
+        },
+        "tags":[
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":true,
+            "obtain_difficulty":"S",
+            "fast_obtain_method":"2 4",
+            "fast_obtain_difficulty":"S"
+        },
+        "type":"available",
+        "location":"Insane Quest, /revenant, needs one dark caster class",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616386810183680/Legion_Revenant_Class_Chart.png"
+    },
+    "Leprechaun":{
+        "acronym":[
+            "Lep",
+            "Leppy"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/leprechaun",
+        "stats":{
+            "solo":3,
+            "def":4,
+            "sup":0,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":2,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":false,
+            "obtain_difficulty":"E",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616406312517642/Leprechaun_Class_Chart.png"
+    },
+    "LightCaster":{
+        "acronym":[
+            "LC"
+        ],
+        "awe_enh":"Spiral Carve or Awe Blast",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/lightcaster-class",
+        "stats":{
+            "solo":5,
+            "def":4,
+            "sup":6,
+            "gdps":5,
+            "pvp":4,
+            "farm":3,
+            "dmg":5,
+            "bludrut":5
+        },
+        "tags":[
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":true,
+            "obtain_difficulty":"A",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"/celestialrealm, finish quest, needs 1k AC Light Mage",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616419370827786/LightCaster_Class_Chart.png"
+    },
+    "LightMage":{
+        "acronym":[
+            "LM"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/lightmage",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":4,
+            "gdps":3,
+            "pvp":3,
+            "farm":3,
+            "dmg":3,
+            "bludrut":2
+        },
+        "tags":[
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, Buy 1k AC armor",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616430049394718/LightMage_Class_Chart.png"
+    },
+    "Lord of Order":{
+        "acronym":[
+            "LoO",
+            "Lorder"
+        ],
+        "awe_enh":"Awe Blast",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/lord-of-order-quest",
+        "stats":{
+            "solo":4,
+            "def":5,
+            "sup":6,
+            "gdps":6,
+            "pvp":4,
+            "farm":0,
+            "dmg":3,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":false,
+            "obtain_difficulty":"A",
+            "fast_obtain_method":"3 4",
+            "fast_obtain_difficulty":"A"
+        },
+        "type":"available",
+        "location":"Questline - from /Battleoff",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616436561969152/Lord_of_Order_Class_Chart.png"
+    },
+    "Lycan":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/lycan-class-non-ac",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":0,
+            "gdps":3,
+            "pvp":5,
+            "farm":1,
+            "dmg":4,
+            "bludrut":5
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Rep, r10 Lycan",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616445613801473/Lycan_Class_Chart.png"
+    },
+    "Mage":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Mage (Rare)",
+            "LightCaster Test",
+            "Sorcerer"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/mage",
+        "stats":{
+            "solo":0,
+            "def":0,
+            "sup":0,
+            "gdps":0,
+            "pvp":2,
+            "farm":2,
+            "dmg":2,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"No Req",
+            "irl_money":false,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"available",
+        "location":"Starter / Shop",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616452269375518/Mage_Class_Chart.png"
+    },
+    "Master Ranger":{
+        "acronym":[
+            "MR"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Ranger"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/master-ranger",
+        "stats":{
+            "solo":2,
+            "def":3,
+            "sup":0,
+            "gdps":0,
+            "pvp":0,
+            "farm":3,
+            "dmg":2,
+            "bludrut":2
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"E",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"E"
+        },
+        "type":"available",
+        "location":"Rep, r10 Sandsea rep",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616461291716628/Master_Ranger_Class_Chart.png"
+    },
+    "Dark Master of Moglins":{
+        "acronym":[
+            "MoM",
+            "DMoM"
+        ],
+        "awe_enh":"Awe Blast",
+        "duplicates":[
+            "Master of Moglins"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/master-of-moglins-class-2",
+        "stats":{
+            "solo":3,
+            "def":4,
+            "sup":4,
+            "gdps":4,
+            "pvp":3,
+            "farm":5,
+            "dmg":3,
+            "bludrut":3
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Heromart or Kickstarter reward",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616049784225803/Dark_Master_of_Moglins_Class_Chart.png"
+    },
+    "MechaJouster":{
+        "acronym":[
+            "MJ",
+            "Jouster"
+        ],
+        "awe_enh":"Mana Vamp or Awe Blast",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/mechajouster",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":2,
+            "gdps":3,
+            "pvp":3,
+            "farm":0,
+            "dmg":2,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"S",
+            "fast_obtain_method":"1 2",
+            "fast_obtain_difficulty":"E"
+        },
+        "type":"available",
+        "location":"Merge",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616467747667988/MechaJouster_Class_Chart.png"
+    },
+    "MindBreaker":{
+        "acronym":[
+            "MB"
+        ],
+        "awe_enh":"Mana Vamp",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/mindbreaker",
+        "stats":{
+            "solo":4,
+            "def":3,
+            "sup":1,
+            "gdps":3,
+            "pvp":3,
+            "farm":3,
+            "dmg":3,
+            "bludrut":2
+        },
+        "tags":[
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, 12k AC bonus shop",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616473833865295/MindBreaker_Class_Chart.png"
+    },
+    "NOT A MOD":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/not-a-mod",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":0,
+            "farm":0,
+            "dmg":1,
+            "bludrut":0
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616514341404692/NOT_A_MOD_Class_Chart.png"
+    },
+    "Naval Commander":{
+        "acronym":[
+            "NC"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Heroic Naval Commander",
+            "Legendary Naval Commander"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/naval-commander-class",
+        "stats":{
+            "solo":0,
+            "def":3,
+            "sup":2,
+            "gdps":0,
+            "pvp":0,
+            "farm":4,
+            "dmg":0,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"seasonal",
+        "location":"Shop, Seasonal, 100k gold, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616481513766972/Naval_Commander_Class_Chart.png"
+    },
+    "Necromancer":{
+        "acronym":[
+            "Necro"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Pinkomancer"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/necromancer-merge",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":0,
+            "gdps":3,
+            "pvp":3,
+            "farm":0,
+            "dmg":3,
+            "bludrut":2
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"D",
+            "fast_obtain_method":"1 4",
+            "fast_obtain_difficulty":"E"
+        },
+        "type":"available",
+        "location":"Rep, r10 Doomwood",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616491810127882/Necromancer_Class_Chart.png"
+    },
+    "Nechronomancer":{
+        "acronym":[
+            "Nechrono",
+            "ncm"
+        ],
+        "awe_enh":"Health Vamp",
+        "duplicates":[
+            "Necrotic Chronomancer"
+        ],
+        "enh":"luck",
+        "note":"Health Vamp is an absolute necessity",
+        "wiki":"http://aqwwiki.wikidot.com/nechronomancer",
+        "stats":{
+            "solo":3,
+            "def":5,
+            "sup":2,
+            "gdps":3,
+            "pvp":1,
+            "farm":6,
+            "dmg":3,
+            "bludrut":1
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Heromart, 2021 Calendar",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616486897811456/Nechronomancer_Class_Chart.png"
+    },
+    "Ninja":{
+        "acronym":[
+            "Sin"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Assassin",
+            "Ninja Warrior"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/ninja-class",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":2,
+            "gdps":0,
+            "pvp":"00",
+            "farm":0,
+            "dmg":1,
+            "bludrut":"00"
+        },
+        "acquire":{
+            "ac_version":"No Req",
+            "irl_money":false,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"available",
+        "location":"Shop, 15k gold",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616497090887680/Ninja_Class_Chart.png"
+    },
+    "No Class":{
+        "acronym":[
+            "HHL"
+        ],
+        "awe_enh":"Powerword Die",
+        "duplicates":[
+            "Obsidian No Class",
+            "Hobo Highlord"
+        ],
+        "enh":"Spitfire",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/no-class",
+        "stats":{
+            "solo":0,
+            "def":0,
+            "sup":0,
+            "gdps":0,
+            "pvp":"00",
+            "farm":0,
+            "dmg":0,
+            "bludrut":"00"
+        },
+        "acquire":{
+            "ac_version":"No Req",
+            "irl_money":false,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"seasonal",
+        "location":"Shop, Seasonal, 1 gold",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616502636281896/No_Class_Class_Chart.png"
+    },
+    "Northlands Monk":{
+        "acronym":[
+            "NM",
+            "Monk"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/northlands-monk-class-free-player",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":3,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"E",
+            "fast_obtain_method":"4",
+            "fast_obtain_difficulty":"E"
+        },
+        "type":"seasonal",
+        "location":"Drop from /frozensoul",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616509312041010/Northlands_Monk_Class_Chart.png"
+    },
+    "Nu Metal Necro":{
+        "acronym":[
+            "NMN"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Grunge Rocker",
+            "Shadow Rocker",
+            "Unchained Rocker"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/nu-metal-necro-1",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":0,
+            "gdps":0,
+            "pvp":2,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":false,
+            "obtain_difficulty":"E",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"seasonal",
+        "location":"Merge",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616519698579486/Nu_Metal_Necro_Class_Chart.png"
+    },
+    "Oracle":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/oracle",
+        "stats":{
+            "solo":2,
+            "def":4,
+            "sup":3,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":0,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"No Req",
+            "irl_money":false,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"available",
+        "location":"Shop- Class shop, free",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616527427108884/Oracle_Class_Chart.png"
+    },
+    "Paladin":{
+        "acronym":[
+            "Pal"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Silver Paladin"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/paladin-class",
+        "stats":{
+            "solo":4,
+            "def":5,
+            "sup":2,
+            "gdps":0,
+            "pvp":4,
+            "farm":3,
+            "dmg":3,
+            "bludrut":3
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"D",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"r10 Warrior, r10 Healer, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616536122032152/Paladin_Class_Chart.png"
+    },
+    "Paladin High Lord":{
+        "acronym":[
+            "PHL"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/paladin-high-lord",
+        "stats":{
+            "solo":3,
+            "def":4,
+            "sup":3,
+            "gdps":0,
+            "pvp":0,
+            "farm":3,
+            "dmg":3,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616541159784478/Paladin_High_Lord_Class_Chart.png"
+    },
+    "PaladinSlayer":{
+        "acronym":[
+            "PS"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/paladinslayer",
+        "stats":{
+            "solo":1,
+            "def":0,
+            "sup":2,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":1,
+            "bludrut":0
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616547086467082/PaladinSlayer_Class_Chart.png"
+    },
+    "Pirate":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/pirate",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":0,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":2,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"E",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"seasonal",
+        "location":"Quest, Seasonal, TLaPD, Classic Pirate",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616553041985556/Pirate_Class_Chart.png"
+    },
+    "Pyromancer":{
+        "acronym":[
+            "Pyro"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Pink Romancer"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/pyromancer-class-ac",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":2,
+            "farm":1,
+            "dmg":1,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"B",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"C"
+        },
+        "type":"available",
+        "location":"Merge, Daily",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616573736550411/Pyromancer_Class_Chart.png"
+    },
+    "Rogue":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Renegade",
+            "Rogue (Rare)"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/rogue",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":0,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":2,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"No Req",
+            "irl_money":false,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"available",
+        "location":"Starter / Shop",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616581635211264/Rogue_Class_Chart.png"
+    },
+    "Rustbucket":{
+        "acronym":[
+            "RB",
+            "Proto"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Enforcer",
+            "ProtoSartorium"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/rustbucket",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":"00",
+            "farm":1,
+            "dmg":1,
+            "bludrut":"00"
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"E",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Quest in /crashsite",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616596987150376/Rustbucket_Class_Chart.png"
+    },
+    "Scarlet Sorceress":{
+        "acronym":[
+            "SS"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/scarlet-sorceress-class-ac",
+        "stats":{
+            "solo":3,
+            "def":5,
+            "sup":0,
+            "gdps":0,
+            "pvp":3,
+            "farm":4,
+            "dmg":2,
+            "bludrut":3
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Quest, Level 50, Blood Sorc, and /towerofmirrors",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616605152018452/Scarlet_Sorceress_Class_Chart.png"
+    },
+    "Sentinel":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/sentinel",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":2,
+            "gdps":0,
+            "pvp":5,
+            "farm":0,
+            "dmg":3,
+            "bludrut":6
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"seasonal",
+        "location":"Shop, Upholder",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616612031332352/Sentinel_Class_Chart.png"
+    },
+    "ShadowScythe General":{
+        "acronym":[
+            "SSG",
+            "SG"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/shadowscythe-general-class-merge",
+        "stats":{
+            "solo":2,
+            "def":5,
+            "sup":0,
+            "gdps":0,
+            "pvp":5,
+            "farm":3,
+            "dmg":0,
+            "bludrut":5
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"B",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"C"
+        },
+        "type":"available",
+        "location":"Merge, Daily",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616618519396362/ShadowScythe_General_Class_Chart.png"
+    },
+    "ShadowStalker of Time":{
+        "acronym":[
+            "SWoT",
+            "SSoT"
+        ],
+        "awe_enh":"Mana Vamp",
+        "duplicates":[
+            "ShadowWalker of Time",
+            "ShadowWeaver of Time"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/shadowstalker-of-time-class",
+        "stats":{
+            "solo":5,
+            "def":5,
+            "sup":2,
+            "gdps":6,
+            "pvp":4,
+            "farm":3,
+            "dmg":6,
+            "bludrut":4
+        },
+        "tags":[
+            "acs_only",
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"/curio, 6k AC, Speak to Chronix",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616626795282442/ShadowStalker_of_Time_Class_Chart.png"
+    },
+    "Shaman":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Mana Vamp",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/shaman",
+        "stats":{
+            "solo":3,
+            "def":2,
+            "sup":0,
+            "gdps":4,
+            "pvp":4,
+            "farm":4,
+            "dmg":3,
+            "bludrut":2
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"B",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Rep, r10 Arcangrove",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616631722934282/Shaman_Class_Chart.png"
+    },
+    "SkyCharged Grenadier":{
+        "acronym":[
+            "SCG"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/skycharged-grenadier",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":2,
+            "gdps":3,
+            "pvp":4,
+            "farm":0,
+            "dmg":4,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop, 9 years membership badge",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616636689121320/SkyCharged_Grenadier_Class_Chart.png"
+    },
+    "SkyGuard Grenadier":{
+        "acronym":[
+            "SGG"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/skyguard-grenadier-ac",
+        "stats":{
+            "solo":3,
+            "def":4,
+            "sup":2,
+            "gdps":0,
+            "pvp":4,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"D",
+            "fast_obtain_method":"4",
+            "fast_obtain_difficulty":"E"
+        },
+        "type":"available",
+        "location":"Rep, r10 Skyguard, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616641605369866/SkyGuard_Grenadier_Class_Chart.png"
+    },
+    "Star Captain":{
+        "acronym":[
+            "StC"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/star-captain",
+        "stats":{
+            "solo":4,
+            "def":5,
+            "sup":0,
+            "gdps":4,
+            "pvp":2,
+            "farm":0,
+            "dmg":4,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop/tower, verification",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616654519107604/Star_Captain_Class_Chart.png"
+    },
+    "StarLord":{
+        "acronym":[
+            "SL"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/starlord",
+        "stats":{
+            "solo":0,
+            "def":0,
+            "sup":0,
+            "gdps":0,
+            "pvp":"00",
+            "farm":1,
+            "dmg":0,
+            "bludrut":"00"
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Prem",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Shop/tower, verification",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616660534394910/StarLord_Class_Chart.png"
+    },
+    "StoneCrusher":{
+        "acronym":[
+            "SC",
+            "IT"
+        ],
+        "awe_enh":"Awe Blast",
+        "duplicates":[
+            "Infinity Titan"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/stonecrusher-merge",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":6,
+            "gdps":6,
+            "pvp":3,
+            "farm":0,
+            "dmg":3,
+            "bludrut":4
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"A",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"C"
+        },
+        "type":"available",
+        "location":"Rep, r10 Brightoak, r10 Mythsong, r10 Arcangrove",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616665819217920/StoneCrusher_Class_Chart.png"
+    },
+    "The Collector":{
+        "acronym":[
+            "Collector"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/the-collector-class-0-ac",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":2,
+            "gdps":0,
+            "pvp":4,
+            "farm":0,
+            "dmg":3,
+            "bludrut":2
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"B",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"C"
+        },
+        "type":"available",
+        "location":"/collection, merge daily tokens",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616683368316978/The_Collector_Class_Chart.png"
+    },
+    "Thief of Hours":{
+        "acronym":[
+            "ToH"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/thief-of-hours-non-ac",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":0,
+            "gdps":0,
+            "pvp":2,
+            "farm":0,
+            "dmg":3,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"E",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"E"
+        },
+        "type":"available",
+        "location":"Rep, r10 Chronospan",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616688165683240/Thief_of_Hours_Class_Chart.png"
+    },
+    "TimeKeeper":{
+        "acronym":[
+            "TK"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "TimeKiller"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/timekiller",
+        "stats":{
+            "solo":4,
+            "def":5,
+            "sup":4,
+            "gdps":6,
+            "pvp":5,
+            "farm":2,
+            "dmg":5,
+            "bludrut":5
+        },
+        "tags":[
+            "heromart"
+        ],
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"available",
+        "location":"Merge HeroPoint in /heromart",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/869801710380548096/TimeKeeper_Class_Chart.png"
+    },
+    "Timeless Dark Caster":{
+        "acronym":[
+            "TDC",
+            "Timeless",
+            "ADC",
+            "MDC"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Arcane Dark Caster",
+            "Mystical Dark Caster"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/timeless-dark-caster-ac",
+        "stats":{
+            "solo":5,
+            "def":4,
+            "sup":0,
+            "gdps":0,
+            "pvp":3,
+            "farm":0,
+            "dmg":5,
+            "bludrut":0
+        },
+        "tags":[
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"seasonal",
+        "location":"Shop, Seasonal, 2k AC",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616703772950569/Timeless_Dark_Caster_Class_Chart.png"
+    },
+    "Troll Spellsmith":{
+        "acronym":[
+            "TSS"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/troll-spellsmith-non-ac",
+        "stats":{
+            "solo":3,
+            "def":3,
+            "sup":1,
+            "gdps":0,
+            "pvp":2,
+            "farm":3,
+            "dmg":3,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_method":"1",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"available",
+        "location":"Rep, r10 Troll",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616710470860821/Troll_Spellsmith_Class_Chart.png"
+    },
+    "Legendary Elemental Warrior":{
+        "acronym":[
+            "LEW",
+            "UEW",
+            "EW"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Ultra Elemental Warrior"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/ultra-elemental-warrior",
+        "stats":{
+            "solo":2,
+            "def":1,
+            "sup":2,
+            "gdps":4,
+            "pvp":3,
+            "farm":0,
+            "dmg":3,
+            "bludrut":2
+        },
+        "tags":[
+            "member_only",
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"D",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"available",
+        "location":"Rep, r6 Elemental Master, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616340777041932/Legendary_Elemental_Warrior_Class_Chart.png"
+    },
+    "Dark Ultra OmniNight":{
+        "acronym":[
+            "DUON",
+            "UOK"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Ultra OmniKnight"
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/ultra-omniknight-merge",
+        "stats":{
+            "solo":4,
+            "def":4,
+            "sup":0,
+            "gdps":4,
+            "pvp":4,
+            "farm":0,
+            "dmg":5,
+            "bludrut":3
+        },
+        "tags":[
+            "acs_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"Premium"
+        },
+        "type":"seasonal",
+        "location":"Shop, Seasonal, 2k AC",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616064389316618/Dark_Ultra_OmniNight_Class_Chart.png"
+    },
+    "Undead Goat":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/undead-goat",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":0,
+            "farm":0,
+            "dmg":1,
+            "bludrut":0
+        },
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":false,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616715807588352/Undead_Goat_Class_Chart.png"
+    },
+    "UndeadSlayer":{
+        "acronym":[
+            "US"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/undeadslayer-ac",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":0,
+            "gdps":0,
+            "pvp":"00",
+            "farm":0,
+            "dmg":2,
+            "bludrut":"00"
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"D",
+            "fast_obtain_method":"4",
+            "fast_obtain_difficulty":"E"
+        },
+        "type":"available",
+        "location":"Rep, r10 Doomwood",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616725831319582/UndeadSlayer_Class_Chart.png"
+    },
+    "Undead Leperchaun":{
+        "acronym":[
+            "(None)"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Unlucky Leprechaun"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/unlucky-leperchaun-ac",
+        "stats":{
+            "solo":1,
+            "def":1,
+            "sup":0,
+            "gdps":0,
+            "pvp":2,
+            "farm":0,
+            "dmg":1,
+            "bludrut":0
+        },
+        "tags":[
+            "member_only"
+        ],
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":true,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"seasonal",
+        "location":"Shop, Seasonal, 100k gold, mem",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616721120591912/Undead_Leperchaun_Class_Chart.png"
+    },
+    "Vampire Lord":{
+        "acronym":[
+            "VL",
+            "RVL"
+        ],
+        "awe_enh":"Health Vamp",
+        "duplicates":[
+            "Enchanted Vampire Lord",
+            "Royal Vampire Lord",
+            "Vampire"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/vampire-lord-class-ac",
+        "stats":{
+            "solo":2,
+            "def":2,
+            "sup":2,
+            "gdps":0,
+            "pvp":0,
+            "farm":5,
+            "dmg":4,
+            "bludrut":5
+        },
+        "acquire":{
+            "ac_version":"Yes",
+            "irl_money":false,
+            "obtain_difficulty":"C",
+            "fast_obtain_method":"1 4",
+            "fast_obtain_difficulty":"D"
+        },
+        "type":"seasonal",
+        "location":"Merge, Seasonal, B-day class, 300 Blood Moon Tokens",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616738023899136/Vampire_Lord_Class_Chart.png"
+    },
+    "Vindicator of They":{
+        "acronym":[
+            "VoT"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"wizard",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/vindicator-of-they-merge",
+        "stats":{
+            "solo":1,
+            "def":3,
+            "sup":2,
+            "gdps":0,
+            "pvp":4,
+            "farm":0,
+            "dmg":1,
+            "bludrut":4
+        },
+        "acquire":{
+            "ac_version":"Rare",
+            "irl_money":false,
+            "obtain_difficulty":"B",
+            "fast_obtain_difficulty":"N/A",
+            "fast_obtain_method":"N/A"
+        },
+        "type":"rare",
+        "location":"(RARE)",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616744608432198/Vindicator_of_They_Class_Chart.png"
+    },
+    "Void Highlord":{
+        "acronym":[
+            "VHL"
+        ],
+        "awe_enh":"Awe Blast",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/void-highlord-class-1",
+        "stats":{
+            "solo":6,
+            "def":6,
+            "sup":2,
+            "gdps":5,
+            "pvp":5,
+            "farm":4,
+            "dmg":5,
+            "bludrut":5
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"S",
+            "fast_obtain_method":"1 2",
+            "fast_obtain_difficulty":"S"
+        },
+        "type":"available",
+        "location":"merge, /tercessuinotlim",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/874905434144784424/Void_Highlord_Class_Chart.png"
+    },
+    "Warrior":{
+        "acronym":[
+            "War"
+        ],
+        "awe_enh":"Spiral Carve",
+        "duplicates":[
+            "Warlord",
+            "Warrior (Rare)",
+            "Beast Warrior",
+            "WarriorScythe General",
+            "Cryomancer Mini Pet Coming Soon",
+            "Void Highlord Tester",
+            "Pumpkin Lord",
+            "Legion Revenant Member Test",
+            "Glacial Berserker Test"
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/warrior-class",
+        "stats":{
+            "solo":1,
+            "def":2,
+            "sup":0,
+            "gdps":0,
+            "pvp":"00",
+            "farm":0,
+            "dmg":2,
+            "bludrut":"00"
+        },
+        "acquire":{
+            "ac_version":"No Req",
+            "irl_money":false,
+            "obtain_difficulty":"No Requirements"
+        },
+        "type":"available",
+        "location":"Starter / Shop",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616756038828032/Warrior_Class_Chart.png"
+    },
+    "Yami no Ronin":{
+        "acronym":[
+            "YnR"
+        ],
+        "awe_enh":"Mana Vamp or Spiral Carve",
+        "duplicates":[
+            
+        ],
+        "enh":"luck",
+        "note":"",
+        "wiki":"http://aqwwiki.wikidot.com/yami-no-ronin-class",
+        "stats":{
+            "solo":5,
+            "def":5,
+            "sup":0,
+            "gdps":3,
+            "pvp":5,
+            "farm":4,
+            "dmg":5,
+            "bludrut":5
+        },
+        "acquire":{
+            "ac_version":"No",
+            "irl_money":false,
+            "obtain_difficulty":"A",
+            "fast_obtain_method":"1 2 3 4",
+            "fast_obtain_difficulty":"A"
+        },
+        "type":"available",
+        "location":"Quest, /darkally",
+        "discord_url":"https://cdn.discordapp.com/attachments/806920895934365766/865616760861229066/Yami_no_Ronin_Class_Chart.png"
+    }
+}

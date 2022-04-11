@@ -1,0 +1,100 @@
+{
+    "bloom-id": "252363724894109700",
+    "auths": {
+        "aqw": {
+            "author": "AdventureQuest Worlds",
+            "image": "https://cdn.discordapp.com/attachments/805367955923533845/812991601714397194/logo_member.png"
+        },
+        "auqw": {
+            "author": "AutoQuest Worlds",
+            "image": "https://images-ext-2.discordapp.net/external/HYh_FWKYc_DqZZAmoIg1ZR0sMSB34aDf0YAFGGLFGSE/%3Fsize%3D1024/https/cdn.discordapp.com/icons/782192889723748362/a_d4c8307eb1dc364f207183a2ee144b4d.gif"
+        }
+    },
+    "icon": "https://media.discordapp.net/attachments/805367955923533845/813066459281489981/icon3.png",
+    "links": {
+        "vanilleStats": "https://docs.google.com/spreadsheets/d/1NFMrFxF5YuPudwfxTlbyOBwqAvSO3owQtjk7DQ53d4g/edit#gid=0",
+        "classTiers": "https://docs.google.com/spreadsheets/d/1Ywl9GcfySXodGA_MtqU4YMEQaGmr4eMAozrM4r00KwI/edit?usp=sharing",
+        "botInvite": "https://discord.com/api/oauth2/authorize?client_id=799639690176495637&permissions=2416298048&scope=applications.commands%20bot",
+        "supportServer": "https://discord.gg/YcXzxPt593",
+        "github": "https://github.com/BloomAutist47/bloom-bot-dragon/"
+    },
+    "images": {
+        "server": "https://media.discordapp.net/attachments/805367955923533845/813412831651168266/beleen-youve-got-mail-new-adventure-quest-worlds-aqw-newsletter.png",
+        "legends": "https://cdn.discordapp.com/attachments/805367955923533845/807995288483921920/intructions.png",
+        "lock": "https://cdn.discordapp.com/attachments/805367955923533845/921660359276900384/secure-icon-png-5010_1.png",
+        "aqw_banner": "https://cdn.discordapp.com/attachments/805367955923533845/921363980805623849/logo-md-aqw.png",
+        "not_found": "https://cdn.discordapp.com/attachments/805367955923533845/921673605069299712/secure-icon-png-5010sdadas_1.png",
+        "aqw_icon_long": "http://cdn.discordapp.com/attachments/805367955923533845/923852225288237106/logo_member.png",
+        "aqw_icon": "http://cdn.discordapp.com/attachments/805367955923533845/812991601714397194/logo_member.png"
+    },
+    "reddit": {
+        "AutoQuestWorlds": "https://cdn.discordapp.com/attachments/805367955923533845/933241878491586620/communityIcon_wf9udu2u4vu51.png",
+        "AQW": "http://cdn.discordapp.com/attachments/805367955923533845/812991601714397194/logo_member.png",
+        "FashionQuestWorlds": "http://cdn.discordapp.com/attachments/805367955923533845/812991601714397194/logo_member.png"
+    },
+    "twitter": {
+        "gift_check": [
+            "birthday",
+            "birthday gift",
+            "bonus daily",
+            "bonus daily login gift",
+            "bonus gift",
+            "daily gift",
+            "daily login",
+            "double reputation",
+            "hour double",
+            "hour drop",
+            "login gift",
+            "new daily drop",
+            "new daily login gift",
+            "new login gift",
+            "now available",
+            "celebrating",
+            "holi-daily",
+            "new daily gifts",
+            "daily gift for today"
+        ],
+        "boost_check": [
+            "5/10/20",
+            "all servers",
+            "boost on all",
+            "boost on all servers",
+            "double class point",
+            "double drop quest",
+            "double exp",
+            "double experience",
+            "double gold",
+            "double quest rewards",
+            "double reputation",
+            "double void",
+            "double legion token",
+            "for 48 hours",
+            "for 72 hours",
+            "hour double",
+            "hour drop",
+            "spirit orbs",
+            "void aura",
+            "void auras",
+            "happening now"
+
+        ],
+        "black_list": [
+            "design notes", "rt @"
+        ],
+        "followed_users": {
+            "Alina_AE": "16480141",
+            "Yoshino_AE": "2596905068",
+            "Bloom": "1349290524901998592",
+            "Kotaro_AE": "135864340",
+            "notdarkon": "200782641",
+            "asukaae": "2435624982",
+            "yo_lae": "2615674874",
+            "arletteaqw": "989324890204327936",
+            "aqwclass": "1240767852321390592",
+            "CaptRhubarb": "2150245009",
+            "ArtixKrieger": "17190195",
+            "AQW_News_Reddit": "885653716942172161",
+            "Aelious_AE": "897656067458576384"
+        }
+    }
+}

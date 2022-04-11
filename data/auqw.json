@@ -1,0 +1,152 @@
+{
+    "color_roles": {
+            "black": {
+                "id": "867363737883377664",
+                "label": "Black",
+                "description": "So you want a Slave badge?",
+                "value": "black",
+                "emoji": "⚫"
+            },
+            "white": {
+                "id": "823779840351535124",
+                "label": "W-word",
+                "description": "For the Supreme Cuckold Race",
+                "value": "white",
+                "emoji": "🤍"
+            },
+            "ruby_red": {
+                "id": "867363745613480008",
+                "label": "Ruby Red",
+                "description": "It's red. But Ruby.",
+                "value": "ruby_red",
+                "emoji": "🍒"
+            },
+            "red": {
+                "id": "843149459931791370",
+                "label": "red",
+                "description": "Just Regular Red",
+                "value": "red",
+                "emoji": "🧧"
+            },
+            "brick_red": {
+                "id": "867363741417734154",
+                "label": "Brick Red",
+                "description": "A. Fucking. Brick.",
+                "value": "brick_red",
+                "emoji": "🧱"
+            },
+            "orange": {
+                "id": "824243722718937138",
+                "label": "Orange",
+                "description": "You peel an orange before eating? gay",
+                "value": "orange",
+                "emoji": "🍊"
+            },
+            "midnight_blue": {
+                "id": "867365482629169162",
+                "label": "Midnight Blue",
+                "description": "This is a shit color contrast to discord dark mode.",
+                "value": "midnight_blue",
+                "emoji": "🧿"
+            },
+            "blue": {
+                "id": "867363737925320764",
+                "label": "Blue",
+                "description": "Daddy BlUwU impregnate me with your master seed.",
+                "value": "blue",
+                "emoji": "📘"
+            },
+            "cyan": {
+                "id": "867363739401191436",
+                "label": "Cyan",
+                "description": "Gay color",
+                "value": "cyan",
+                "emoji": "❄️"
+            },
+            "light_blue": {
+                "id": "862373263505096704",
+                "label": "Light Blue",
+                "description": "This is almost a passable hex value",
+                "value": "light_blue",
+                "emoji": "🥶"
+            },
+            "diamond": {
+                "id": "867363744573292564",
+                "label": "Diamond",
+                "description": "Jesus, who made these colors? a woman?",
+                "value": "diamond",
+                "emoji": "💎"
+            },
+            "dark_green": {
+                "id": "867363741779361812",
+                "label": "Dark Green",
+                "description": "What are you, a light mode autist user?",
+                "value": "dark_green",
+                "emoji": "🌲"
+            },
+            "green": {
+                "id": "867363737966477333",
+                "label": "Green",
+                "description": "I WILL FUCK GREEN M&M! I WILL FUCK GREEN M&M! I WILL FUCK GREEN M&M! ",
+                "value": "green",
+                "emoji": "📗"
+            },
+            "mint_green": {
+                "id": "867363738809139201",
+                "label": "Mint Green",
+                "description": "Great color",
+                "value": "mint_green",
+                "emoji": "🥬"
+            },
+            "dark_purple": {
+                "id": "867363744245743626",
+                "label": "Dark Purple",
+                "description": "Kill yourself",
+                "value": "dark_purple",
+                "emoji": "☂️"
+            },
+            "purple": {
+                "id": "867363743489720350",
+                "label": "Purple",
+                "description": "I'm running out of shitposts to write.",
+                "value": "purple",
+                "emoji": "🍆"
+            },
+            "dark_fushia": {
+                "id": "867363742719541309",
+                "label": "Dark Fuschia",
+                "description": "dark_fushia",
+                "value": "dark_fushia",
+                "emoji": "🎀"
+            },
+            "fushia": {
+                "id": "867363742151606282",
+                "label": "Fuschia",
+                "description": "Fuschiang Ina mo",
+                "value": "fushia",
+                "emoji": "🌸"
+            },
+            "yellow": {
+                "id": "867363745889255434",
+                "label": "Yellow",
+                "description": "The yellow girl in power rangers was hot.",
+                "value": "yellow",
+                "emoji": "👩"
+            },
+            "hazelnut": {
+                "id": "867363746941894666",
+                "label": "Hazelnut",
+                "description": "DEEZ NUTS MOTHERFUCKER",
+                "value": "hazelnut",
+                "emoji": "🥜"
+            },
+            "cream": {
+                "id": "867365482338975764",
+                "label": "Cream",
+                "description": "UwU daddy Kaos please creamy-pie with your trans-grooming skills",
+                "value": "cream",
+                "emoji": "🍦"
+            }
+
+    }
+}

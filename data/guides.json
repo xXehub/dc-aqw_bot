@@ -1,0 +1,821 @@
+{
+    "gg":{
+        "auth":"auqw",
+        "title":"Grimoire Guide 101",
+        "description":"Don't know how to use boats? Follow these guides.",
+        "fields":{
+            "1. **How to edit Boats  by NNg_**":[
+                "> **Link**: [Download](https://cdn.discordapp.com/attachments/805367955923533845/823780979264716800/Basic_tutorial_on_how_to_use_portal_bot.pdf)",
+                "> Tired of learning how to make a bot? Feeling confused on how to use our bots? Look no further, this booklet is designed to teach you all the essential basic skills for a bot user..."
+            ],
+            "2. **Grimoire Helpbook** ":[
+                "> **Link:** [Grim 101](https://docs.google.com/document/d/1feo9uke1qa0pzjAOTMUkasGR7Rqsz0fdOwdV0BaEzz0/edit?usp=sharing)",
+                "> Grimiore is one of the most common bot programs currently, and I'm here to teach you how to use it. This guide is for Grimoire 3.8 and 3.8+."
+            ]
+        },
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/823781523538968576/unknown.png"
+    },
+    "darkmode":{
+        "auth":"auqw",
+        "status":"outdated",
+        "title":"Dark mode for Grimoire Guide",
+        "description":"For those who wanna use Dark Mode for Grimoire,\nhere are the steps in order to get the mode (in the video): [Link](https://m.youtube.com/watch?v=b8qJB8rJHaU)",
+        "thumbnail":"https://cdn.discordapp.com/attachments/805367955923533845/806926635907022848/unknown.png"
+    },
+    "newplayer":{
+        "auth":"auqw",
+        "title":"New Player Guide",
+        "description":"__**Download Grim Boats from our Portal Site**__. [**Click Here**](https://auqw.tk/)",
+        "fields":{
+            "**For Levels**":[
+                "Use the __Arts_IceStormArena_Agro_HealerSkill.gbot__ on the portal. Just equip healer and go to a populated Icestormarena and chill. It AFK's in a blank cell while provoking Frost Spirits with packets, so if may look like it doesn't work, but you can relog to check your progress.\n"
+            ],
+            "**For a Farming Class**":[
+                "Use the __Arts_MountDoomSkull_Bot.gbot__ to complete the 13 Lords of Chaos Saga asap, then run a Chaos Rep boat till you have Rank 10 Chaos Rep and buy yourself the Chaos Slayer Class (any version, all are the same). If you have other accounts, make them farm chaos rep simultaneously.\n"
+            ],
+            "**For a Soloing Class**":[
+                "Use __Weeb_Lycan_Rep__ or __Arts_LycanRep_Boat__ to get to Rank 10 Lycan and buy yourself the Lycan Class. Use `Bloom_5thChaosLord_DarkoviaWolfwing_pro.gbot` to immediately complete the lycan storyline requirement."
+            ]
+        },
+        "thumbnail":"https://images-ext-2.discordapp.net/external/HYh_FWKYc_DqZZAmoIg1ZR0sMSB34aDf0YAFGGLFGSE/%3Fsize%3D1024/https/cdn.discordapp.com/icons/782192889723748362/a_d4c8307eb1dc364f207183a2ee144b4d.gif"
+    },
+    "Boating Guides":"header",
+    "guides":{
+        "auth":"aqw",
+        "title":"Compedium of Guides",
+        "description":"Guides related to farming, membership, reputation, and more can be found here: [Link](https://aqwg.weebly.com/)",
+        "thumbnail":"https://cdn.discordapp.com/attachments/805367955923533845/806927386997293077/unknown.png"
+    },
+    "starterclass":{
+        "auth":"aqw",
+        "title":"Starter Class Guide",
+        "description":"Don't have a good class to start farming stuff? Read this guide:\n\u200b",
+        "fields":{
+            "**__For Members:__**":[
+                "__Have ACs you're not using for something else?__",
+                "-> Have 2000 ACs? Go to [/terrarium](http://tiny.cc/icletz) and accept [**For Science!**](http://tiny.cc/8qletz) from Kid Drakath.",
+                "-> Keep spamming the quest until you get 500 Super-Fan Swag Tokens Cs and merge them all into Super-Fan Swag Token Bs THEN merge those into Super-Fan Swag Token As. This is for Doomwood and Embersea reps.",
+                "-> Get Doomwood rep fast by spamming [**Essential Essences**](http://tiny.cc/2dletz) from Artix in [/necropolis](http://tiny.cc/sdletz).",
+                "-> After getting Doomwood and Embersea rank 10, go to [/fireforge](http://tiny.cc/bfletz) and open up the class shop from the Game Menu and purchase [Pyromancer](http://tiny.cc/jdletz).",
+                "-> After purchasing Pyromancer, buy the [2 Sigils](http://tiny.cc/ydletz) from the [**AC Pyromancer Shop**](http://tiny.cc/ydletz) and purchase [Blaze Binder](http://tiny.cc/2fletz)."
+            ],
+            "__Member but Don't have ACs?__":[
+                "-> Buy [Daimon](http://aqwwiki.wikidot.com/daimon-legend) which can solo and farm decently and can sustain itself by having a self heal."
+            ],
+            "__**For non-members:**__":[
+                "-> Go and get [Blood Sorceress](http://tiny.cc/nfletz) from [/towerofmirrors](http://tiny.cc/ydletz) by killing [Scarletta](http://tiny.cc/teletz).",
+                "-> Need help killing her? Ask for help in the server and people will be more than welcome to help you! ",
+                "-> After getting [Blood Sorceress](http://tiny.cc/nfletz), go and get level 50 *(use `;g XP` for a guide on leveling up)* and complete the [/hedgemaze](http://tiny.cc/jeletz) and [/towerofmirrors](http://tiny.cc/ydletz) questline.",
+                "-> After doing those 3 steps, go to the NPC in [/towerofmirrors](http://tiny.cc/ydletz) in Screen 1 and turn your [Blood Sorceress](http://tiny.cc/nfletz) into [Scarlet Sorceress](http://tiny.cc/neletz) as it is a massive upgrade and can help farm everything much easier.",
+                "-> Non members with ACs is also a thing so you can still recommend [Blaze Binder](http://tiny.cc/2fletz)."
+            ]
+        }
+    },
+    "ioda":{
+        "auth":"aqw",
+        "title":"Ioda Guide",
+        "description":"List of popular functional IoDA choices, by Molevolent.\u200b",
+        "fields":{
+            "➣ Oblivion Blade of Nulgath (Rare) pet":[
+                "few farming items, bunch of cosmetics and has one of the best Nulgath reagen farming quests through Tendurr. If you are struggling to pick your first item, OBoN is a very good first choice to pick."
+            ],
+            "➣ Dragon King Naval 10k chest":[
+                "like 120 cosmetics, everything has a 15% damage boost"
+            ],
+            "➣ VoT (Vindicator of They)":[
+                "class + full set"
+            ],
+            "➣ Rare classes and classes":[
+                "Classes that cannot be obtained within the game, for example: Artifact Hunter"
+            ],
+            "➣ Chaos Champion Prime Orb":[
+                "class + full set"
+            ],
+            "➣ Necrotic Sword of Doom":[
+                "longest farm in the game, weapon that does +51% damage to everything. If you're bitting however, ignore this choice completely because it's much more convenient to save your IoDA for something else rather than using it for something that takes no effort due to bots"
+            ],
+            "➣ Nulgath Challenge pet":[
+                "some of the easiest nulgath reagent farming, notably blood gems"
+            ],
+            "➣ Arcane Paragon pet":[
+                "best lt's for an endgame player"
+            ],
+            "➣ Bright Paragon pet":[
+                "best lt's for most people"
+            ],
+            "➣ Dark Caster":[
+                "class + full set"
+            ],
+            "➣ Any other rare 10k AC's chest":[
+                "\u200b"
+            ]
+        }
+    },
+    "bioda":{
+        "auth":"aqw",
+        "title":"Buying Ioda Guide",
+        "description":"**Redeem IoDA tokens to get even MORE bonuses**.\n> For each of the first six eligible IoDA tokens you receive , you'll get a FREE Bonus IoDA. The eligible tokens are the Ultimate, Epic, Platinum, Wicked and Golden tokens. After that, you'll get a free Bonus IoDA for every 3 eligible IoDA you redeem, with no maximum stack. So if you have that dream set of gear you want to create... now you'll be able to.",
+        "fields":{
+            "​":[
+                "After you redeem your...",
+                "",
+                "1st IoDA, you'll unlock 1 free bonus IoDA",
+                "2nd IoDA, you'll unlock 1 free bonus IoDA",
+                "3rd IoDA, you'll unlock 1 free bonus IoDA",
+                "4th IoDA, you'll unlock 1 free bonus IoDA",
+                "5th IoDA, you'll unlock 1 free bonus IoDA",
+                "6th IoDA, you'll unlock 1 free bonus IoDA",
+                "Then, for every 3 IoDA you redeem, you'll unlock another free bonus IoDA.",
+                "",
+                "After you redeem your...",
+                "",
+                "7th, 8th, and 9th IoDA, you'll unlock 1 free bonus IoDA",
+                "10th, 11th, and 12th IoDA, you'll unlock 1 free bonus IoDA And so on.",
+                "The 3:1 bonus IoDA ratio starts after you get your first 6 free BIoDA, regardless of when you received them. (Example: if you've redeemed a total of 21 IoDA tokens, you'll unlock 11 BIoDA total. The first 6 BIoDA at a 1:1 ratio, and then 5 more at the 3:1 ratio.)"
+            ]
+        }
+    },
+    "xp":{
+        "auth":"aqw",
+        "title":"Leveling-up Guide",
+        "description":"__**Don't know how to level up? Read this:**__",
+        "fields":{
+            "__**Before Level 75:**__":[
+                "➣ __For Members__: Level up to 75 in [/nightmare](http://aqwwiki.wikidot.com/nightmare-location).",
+                "➣ __For non-members__: If you aren't level 50+, level up in [/firewar](http://aqwwiki.wikidot.com/fire-war) until level 50. Kill the mobs around the map and slowly spam the x5 and x3 Turn In Buttons near the Progress Bar, don't spam it fast or you will disconnect.",
+                "Level up to 75 in [/icestormarena](http://aqwwiki.wikidot.com/icestorm-arena), Screen 25 (Top, Top, Left, Down)."
+            ],
+            "__**After Reaching Level 75:**__":[
+                "➣ To reach Level 100, Farm in [/icestormarena](http://aqwwiki.wikidot.com/icestorm-arena), Screen 26 (Top, Top, Left, Down, Down).",
+                "",
+                "*Make Sure to always farm in public rooms for maximum monster kill efficiency."
+            ]
+        }
+    },
+    "ac":{
+        "auth":"aqw",
+        "title":"Guide on using 2k ACs for gameplay purposes",
+        "description":"__**Don't know how to level up? Read this:**__",
+        "fields":{
+            "​":[
+                "1) Rank up Doomwood and Embersea rep to rank 10 -> Buy [Pyromancer](http://aqwwiki.wikidot.com/pyromancer-class-merge) for 2k ACs -> Merge [Blaze Binder](http://aqwwiki.wikidot.com/blaze-binder-merge) ->Sell Pyromancer within 24 hours for 1.8k ACs back. This gets Blaze Binder, a really good farming class. To check how good it is, use `;c bb` on the commands channel.\n"
+            ],
+            "​​": [
+                "2) Prefarm 200 combat trophies -> Get [Undead Warrior](http://aqwwiki.wikidot.com/undead-warrior-armor) -> Do all of Dage's Quests until [Fail to the King](http://aqwwiki.wikidot.com/dage-the-evil-s-quests#1) -> Sell undead warrior within 24 hours for 1.08k ACs back. This gives you access to the Legion, which is a basic prerequisite for Legion Revenant and alot of other stuff.\n"
+            ],
+            "​​​": ["3) Use the remaining 1680 ACs however you want, buying [LightMage](http://aqwwiki.wikidot.com/lightmage) to later use to get [LightCaster](http://aqwwiki.wikidot.com/lightcaster-class) is a popular choice. LightCaster is a really, really good class overall, it should cover up your soloing until you get VHL or LR. To check how good it is, use `;c lc` on the commands channel.\n"
+            ]
+        }
+    },
+    "mem":{
+        "auth":"aqw",
+        "title":"Guide for Newly Made Members/Legends",
+        "description":"Please read the following carefully: [Link](https://docs.google.com/document/d/1R_tkHiC6gCE0EKF8nvPOGY35_wM_4mimbdAJQDMbtXg/edit)",
+        "thumbnail":"https://cdn.discordapp.com/attachments/805367955923533845/807057211053572156/hnB2u7-T9DI_COu6U6bLOh5ALjGjMPX6QZGZx5hfKVD2zJP-UubeEryFXL6dYV5wbybreHshcgw1200-h630-p.png"
+    },
+    "boost":{
+        "auth":"aqw",
+        "title":"Guide for in-game Boosts",
+        "description":"Please read the following carefully.",
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/806920849801216030/2CBomK5.png"
+    },
+    "enh":{
+        "status":"outdated",
+        "auth":"aqw",
+        "title":"Enhancement guide.",
+        "description":"Alternatively, you can use `;c class_name` to find the class data chart which also contains the Class and Awe Enchancements.\n\n**Note**: I'll update the awe enhancement later.\nUse the `;c class_name` command for the time being.",
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/829732118073573396/class_enhancements_4.png"
+    },
+    "alchem":{
+        "auth":"aqw",
+        "title":"Alchemy Minigame Guide",
+        "description":"__**How to Play the Alchemy Minigame:**__",
+        "fields":{
+            "​":[
+                "In the minigame, you need to fill up the empty potion bottle. To be efficient, balance the heat of your potion so it maintains a strong output of 3 green circles, or 2 at the least. I find this can be done best by keeping the mixture temperature at about 70-80 degrees. Use the red button to increase the heat or the blue button to freeze the runestone and stop it from overheating. The harder the rune, the easier it is for it to overheat. Sometimes, a fireball will not hit the runestone and instead set the room on fire, putting the meter at 100 - you cannot avoid this. Similarly, the ice may not cool down the runestone and could actually put your meter at -30. If this happens, you may as well restart because you won't lose any reagents for it.",
+                "\\> [Click this link for the Full Guide by Vero](https://aqwg.weebly.com/alchemy--spellcrafting.html)"
+            ]
+        },
+        "thumbnail":"https://cdn.discordapp.com/attachments/805367955923533845/807060789663760465/h54ejuc_orig.png"
+    },
+    "acronyms":{
+        "auth":"aqw",
+        "title":"Acronyms Dictionary",
+        "description":"Don't know what NSoD or CoA or smth means? Read the following. These are from [AQWG](https://aqwg.weebly.com/acronyms.html)",
+        "fields":{
+            "Classes":[
+                "LoO - Lord of Order\nLR - Legion Revenant\nMJ - MechaJouster\nMoM - Master of Moglins\nNecro - Necromancer\nNMN - Nu Metal Necro\nPyro - Pyromancer\nRBM - Royal BattleMage\nSC - StoneCrusher\nSGG - SkyGuard Grenadier\nSS - Scarlet Sorceress\nSSG - ShadowScythe General\nSSoT - ShadowStalker of Time\nSWoT - ShadowWalker of Time\nTC - The Collector\nTDC - Timeless Dark Caster\nToH - Thief of Hours\nTS - Troll Spellsmith\nUOK - Ultra OmniKnight\nVHL - Void Highlord\nVoT - Vindicator of They\nVL - Vampire Lord\n"
+            ],
+            "Account":[
+                "AC - Adventure Coin\nACs - Adventure Coins\nAcc - Account\nAP - Artix Points\nBoL - Book of Lore\nCC - Colour Custom\nCP - Class Points\nCP - Character Page\nDM - Direct Message\nDN - Design Notes\nEXP - Experience Points\nFL - Friends List\nHM - Heromart\nLvl - Level\nMem - Member/Membership\nPL - Party Leader\nPM - Private Message\nPT - Party\nRep - Reputation\nWoD - Wheel of Doom\nXP - Experience Points\n"
+            ],
+            "Combat":[
+                "AFK - Away From Keyboard\nAoE - Area of Effect (Ability)\nBB - Bludrut Brawl\nDoT - Damage over Time\nDPS - Damage Per Second\nFPS - Frames Per Second\nHoT - Heal over Time\nHP - Health Points\nHPS - Healing Per Second\nHV - Health Vamp\nLUK - Lucky (Enhancements)\nMP - Mana Points\nMV - Mana Vamp\nNPC - Non-Player Character\nOP - Overpowered\nPvP - Player vs Player\nPvE - Player vs Environment\nPWD - Powerword Die\nScarve - Spiral Carve\nWDPS - Weapon Damage Per Second\nWIZ - Wizard (Enhancements)\n"
+            ],
+            "AE":[
+                "AE - Artix Entertainment\nAQ - Adventure Quest\nAQ2D - Adventure Quest 2D\nAQ3D - Adventure Quest 3D\nAQW - Adventure Quest Worlds\nDev - Developer\nDF - DragonFable\nED - EpicDuel\nHS - HeroSmash\nMod - Moderator\nMQ - MechQuest\nOS - OverSoul\n"
+            ],
+            "Releases":[
+                "13LoC - 13 Lords of Chaos\n7DD - The Seven Deadly Dragons\nDvN - Dage vs Nulgath War\nF13 - Friday the 13th\nTLAPD - Talk Like A Pirate Day\nTMBG - They Might Be Giants\nToD - Throne of Darkness\nQoM - Queen of Monsters\n"
+            ]
+        },
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/811470176318783508/unknown.png"
+    },
+    "General Guides":"header",
+    "j6":{
+        "auth":"aqw",
+        "title":"The J6 Saga Guide",
+        "description":"This comprehensive guide provides everything you need in order to progress through the storylines in J6 Saga. ➣ [Click Here](https://forums2.battleon.com/f/tm.asp?m=22270401)",
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/837875722789191680/C4fWB5J.png"
+    },
+    "Story Guides":"header",
+    "op":{
+        "auth":"aqw",
+        "title":"Optimized Gear Combinations",
+        "description":"The absolute best possible combinations of gear to equip against each monster type for maximum optimization:",
+        "fields":{
+            "​":[
+                "• `Best Combination`:  NSoD 1st, Polly Roger 2nd, Legion Beast Head 3rd, SDKA 4th",
+                "• `Non-race-tagged`: NSoD (x1.51 or 51%)",
+                "• `Chaos`: CU + AFDL armor (x2.025 or 102.5%)",
+                "• `Dragon`: AFDL1  + LDoN (x2.3625) ",
+                "• `Elemental`: AFDL + IFK (x2.3625)",
+                "• `Human`: SDKA + NSoD (x2.2801 or 128.01%)",
+                "• `Undead`: AFDL armor + BLoD (x2.3625 or 136.25%)"
+            ],
+            "​​": [
+                "➣ **NSoD** = Necrotic Sword of Doom; Burning Blade of Abezeth can be used instead if you don't have it, though it's slightly weaker.",
+                "➣ **CU** = Chaorrupter Unlocked. Nothing can be used instead. How do you not fucking have this.",
+                "➣ **CPC** = Celestial Pirate Commander and all its items; ArchFiend DeathLord (AFDL2) and its items can be used instead, they're exactly the same.",
+                "➣ **SDKA** = Sepulchure's DoomKnight Armor; Arch DoomKnight can be used instead if you don't have it, though it's slightly weaker.",
+                "➣ **AFDL** =  Archfiend Doomlord, armor only; its other items can be used instead if you don't have the armor, though they're weaker.",
+                "➣ **BLoD** = Blinding Light of Destiny and its variants. Nothing can be used instead. How do you not fucking have this.",
+                "➣ **LDoN** = Legion DragonBlade of Nulgath; You need membership to get it though. Does 75% more damage against dragons. Use NSoD if you don't have it.",
+                "➣ **IFK** = Infernal Flame Khopesh; Does 75% more damage against elemental."
+                ],
+            "​​​": [
+                "For more details on each set, use the following cmds.",
+                "`;g setdragon` - Best Boosted Set for Dragon Type Monsters.",
+                "`;g setundead` - Best Boosted Set for Undead Type Monsters.",
+                "`;g setelemental` - Best Boosted Set for Elemental Type Monsters.",
+                "`;g setgeneral` - Best Boosted Set for Maximum Efficiency all around:.",
+                "`;g sethuman` - Best Boosted Set for Humans Type Mobs:.",
+                "`;g setchaos` - Best Booster Set for Chaos Type Mobs:."
+            ]
+        }
+    },
+    "setgeneral":{
+        "auth":"aqw",
+        "title":"Best Boosted Set for Maximum all around:",
+        "description":[
+            "__Equip the following in order__:",
+            "1.) [Necrotic Sword of Doom](http://aqwwiki.wikidot.com/necrotic-sword-of-doom-sword)",
+            "2.) [Polly Roger Pet](http://aqwwiki.wikidot.com/polly-roger)",
+            "3.) [Head of the Legion Beast](http://aqwwiki.wikidot.com/head-of-the-legion-beast)",
+            "4.) [Fire Champion's Armor](http://aqwwiki.wikidot.com/fire-champion-s-armor)",
+            "5.) [Awescended Omni Wings](http://aqwwiki.wikidot.com/awescended-omni-wings)",
+            "",
+            "__Total multiplier__: ```dmgAll: ×1.51\nUndead: ×1.40\nChaos: ×1.30\nElemental: ×1.30\nDragonkin: ×1.50\nHuman: ×1.40\ncp: ×1.50\ngold: ×1.30\nrep: ×1.50\nexp: ×1.30```",
+            "",
+            "**__Note__**: If not equipped in order, none of these will work."
+        ],
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/882794463741767700/unknown.png"
+    },
+    "setdragon":{
+        "auth":"aqw",
+        "title":"Best Boosted Set for Dragon Type Monsters",
+        "description":[
+            "__Equip the following in order__:",
+            "1.) [Polly Roger Pet](http://aqwwiki.wikidot.com/polly-roger)",
+            "2.) [Head of the Legion Beast](http://aqwwiki.wikidot.com/head-of-the-legion-beast)",
+            "3.) AFDL1 (*[Archfiend Doomlord](http://aqwwiki.wikidot.com/archfiend-doomlord)*)",
+            "4.) [Legion DragonBlade of Nulgath](http://aqwwiki.wikidot.com/legion-dragonblade-of-nulgath)",
+            "",
+            "__Total Dragon DMG multiplier__: `x2.3625`",
+            "",
+            "**__Note__**: If not equipped in order, none of these will work."
+        ],
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/836791681876885514/dragonset.png"
+    },
+    "setundead":{
+        "auth":"aqw",
+        "title":"Best Boosted Set for Undead Type Monsters",
+        "description":[
+            "__Equip the following in order__:",
+            "1.) [Polly Roger Pet](http://aqwwiki.wikidot.com/polly-roger)",
+            "2.) AFDL1 (*[Archfiend Doomlord](http://aqwwiki.wikidot.com/archfiend-doomlord)*)",
+            "3.) [Blinding Light of Destiny](http://aqwwiki.wikidot.com/blinding-light-of-destiny-axe)",
+            "",
+            "__Total Undead DMG multiplier__: `x2.3625`",
+            "",
+            "**__Note__**: If not equipped in order, none of these will work."
+        ],
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/836438332401516564/unknown.png"
+    },
+    "setelemental":{
+        "auth":"aqw",
+        "title":"Best Boosted Set for Elemental Type Monsters",
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/886469997310902352/unknown.png",
+        "description":[
+            "__Equip the following in order__:",
+            "1.) [Infernal Flame Khopesh](http://aqwwiki.wikidot.com/infernal-flame-khopesh)",
+            "2.) AFDL1 (*[Archfiend Doomlord](http://aqwwiki.wikidot.com/archfiend-doomlord)*) or [Infernal Flame Pyromancer](http://aqwwiki.wikidot.com/infernal-flame-pyromancer)",
+            "",
+            "__Total Elemental DMG multiplier__: `x2.3625`",
+            "",
+            "**__Note__**: If not equipped in order, none of these will work."
+        ]
+    },
+    "sethuman":{
+        "auth":"aqw",
+        "title":"Best Boosted Set for Humans Type Mobs:",
+        "description":[
+            "__Equip the following in order__:",
+            "1.) [Archfiend Doomlord](http://aqwwiki.wikidot.com/archfiend-doomlord)",
+            "2.) [Prince Darkon's Poleaxe](http://aqwwiki.wikidot.com/prince-darkon-s-poleaxe)",
+            "",
+            "__Total Human DMG multiplier__: `x2.3625`",
+            "",
+            "**__Note__**: If not equipped in order, none of these will work."
+        ],
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/911269648811589652/unknown.png"
+    },
+    "setchaos":{
+        "auth":"aqw",
+        "title":"Best Booster Set for Chaos Type Mobs:",
+        "description":[
+            "__Equip the following in order__:", 
+            "1.) AFDL1 (*[Archfiend Doomlord](http://aqwwiki.wikidot.com/archfiend-doomlord)*)",
+            "2.) [Empowered Blade of Chaos](http://aqwwiki.wikidot.com/empowered-blade-of-chaos)",
+            "",
+            "__Total Chaos DMG multiplier__: `x2.3625`",
+            "",
+            "**__Note__**: If not equipped in order, none of these will work."
+        ],
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/911296383712112701/unknown.png"
+    },
+    "Optimization Guides":"header",
+    "farmlist":{
+        "auth":"aqw",
+        "title":"Farming list sorted by Difficulty",
+        "description":"These items are ranked by estimated times that assume you're an endgame player with strong classes and damage-boosting weapons.  Nation farms are ranked assuming you're using Nulgath's Birthday Gift pet. To see the original list, [click here](https://aqwg.weebly.com/farming-list.html)\n\nThis list was created with legitting in mind. Take it with a grain of salt.",
+        "fields":{
+            "📌 1000+ Hours":[
+                "➣ [Necrotic Sword of Doom](https://aqwg.weebly.com/necrotic-sword-of-doom.html) (non-member)"
+            ],
+            "📌 100-150 Hours":[
+                "➣ [Void Warlock](https://aqwg.weebly.com/void-warlock.html) (full set)",
+                "➣ [Necrotic Sword of Doom](https://aqwg.weebly.com/necrotic-sword-of-doom.html) (SDKA method)",
+                "➣ [ArchFiend DoomLord](https://aqwg.weebly.com/archfiend-doomlord.html) (full set)"
+            ],
+            "📌 80-99 Hours":[
+                "➣ [Sepulchure's DoomKnight Armour](https://aqwg.weebly.com/sepulchures-doomknight-armour.html)",
+                "➣ [Legion Revenant](https://aqwg.weebly.com/legion-revenant.html)",
+                "➣ [Void Highlord](https://aqwg.weebly.com/void-highlord.html)",
+                "➣ [Enchanted Nulgath Nation House](https://aqwg.weebly.com/enchanted-nulgath-nation-house.html)"
+            ],
+            "📌 25-49 Hours":[
+                "➣ [Void Shogun](https://aqwg.weebly.com/void-shogun.html) (full set)",
+                "➣ [Void Spartan](https://aqwg.weebly.com/void-spartan.html) (full set)",
+                "➣ [Void Paladin](https://aqwg.weebly.com/void-paladin.html) (full set)",
+                "➣ [Evolved Hex Orb + cosmetics](https://aqwg.weebly.com/evolved-hex-orb--quests.html)",
+                "➣ [Evolved Blood Orb + cosmetics](https://aqwg.weebly.com/evolved-blood-orb--quests.html)",
+                "➣ [Evolved Shadow Orb +  cosmetics](https://aqwg.weebly.com/evolved-shadow-orb--quests.html)",
+                "➣ [Blinding Light of Destiny](https://aqwg.weebly.com/blinding-light-of-destiny.html)"
+            ],
+            "📌 10-24 Hours":[
+                "➣ [Void Avenger Scythe](http://aqwwiki.wikidot.com/void-avenger-scythe)",
+                "➣ [Armour of Awe](https://aqwg.weebly.com/armour-of-awe.html)",
+                "➣ [ArchPaladin](https://aqwg.weebly.com/archpaladin.html) (non-member)",
+                "➣ [Cyber Crystal Phoenix Blade](http://aqwwiki.wikidot.com/cyber-crystal-phoenix-blade)",
+                "➣ [Juggernaut Items of Nulgath](https://aqwg.weebly.com/juggernaut-items.html)",
+                "➣ [Original Drakath Armour](https://aqwg.weebly.com/drakath-armour.html)",
+                "➣ [Legion Castle](http://aqwwiki.wikidot.com/legion-castle)",
+                "➣ [Void Light of Destiny](https://aqwg.weebly.com/void-paladin.html)",
+                "➣ [Unidentified Gemstone of Nulgath](http://aqwwiki.wikidot.com/unidentified-gemstone-of-nulgath)",
+                "➣ [Elemental DragonSlayer](http://aqwwiki.wikidot.com/elemental-dragonslayer)"
+            ],
+            "📌 5-9 Hours":[
+                "➣ [DragonBlade of Nulgath](https://aqwg.weebly.com/dragonblade-of-nulgath.html)",
+                "➣ [Lord of Order](https://aqwg.weebly.com/lord-of-order.html)",
+                "➣ [Helm of Awe](https://aqwg.weebly.com/helm-of-awe.html)",
+                "➣ [Dual Tachyon Blades](http://aqwwiki.wikidot.com/dual-tachyon-blades)",
+                "➣ [Golden Hanzo Void](http://aqwwiki.wikidot.com/golden-hanzo-void)",
+                "➣ [ArchPaladin](https://aqwg.weebly.com/archpaladin.html) (member)",
+                "➣ [Laken's Personal Armour](http://aqwwiki.wikidot.com/laken-s-personal-armor)",
+                "➣ [Ultimate Lich King](http://aqwwiki.wikidot.com/ultimate-lich-king-permanent)",
+                "➣ [Chrono Assassin](https://aqwg.weebly.com/chrono-assassin.html)",
+                "➣ [Arch DoomKnight](https://aqwg.weebly.com/arch-doomknight.html) (full set)",
+                "➣ [Legendary Archfiend](https://aqwg.weebly.com/archfiend.html)"
+            ],
+            "📌 1-4 Hours":[
+                "➣ [LightCaster](https://aqwg.weebly.com/lightcaster.html)",
+                "➣ [Frostval Barbarian](https://aqwg.weebly.com/frostval-barbarian.html)",
+                "➣ [Blade of Awe](https://aqwg.weebly.com/blade-of-awe.html)",
+                "➣ [Sepulchure's Original Helm](http://aqwwiki.wikidot.com/sepulchure-s-original-helm)",
+                "➣ [General of Cerberus](http://aqwwiki.wikidot.com/general-of-cerberus)",
+                "➣ [Valen and Lynaria Armour](http://aqwwiki.wikidot.com/valen-and-lynaria-armor)",
+                "➣ [Void Monk of Nulgath](http://aqwwiki.wikidot.com/void-monk-of-nulgath)",
+                "➣ [Vampire Lord](https://aqwg.weebly.com/vampire-lord.html)",
+                "➣ [Legion Titan](http://aqwwiki.wikidot.com/legion-titan)",
+                "➣ [DOOMFire of Gravelyn](http://aqwwiki.wikidot.com/doomfire-of-gravelyn)",
+                "➣ [Undead Paladin](http://aqwwiki.wikidot.com/undead-paladin-armor)",
+                "➣ [Burning Blade of Abezeth](https://aqwg.weebly.com/burning-blade-of-abezeth.html)"
+            ],
+            "​":[
+                "➣ [Burning Blade](https://aqwg.weebly.com/burning-blade.html)",
+                "➣ [Dragonslayer General](https://aqwg.weebly.com/dragonslayer-general.html)",
+                "➣ [Legion & Nation Soulstealer](http://aqwwiki.wikidot.com/nation-soulstealer)"
+            ]
+        },
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/832859104401293322/unknown.png"
+    },
+    "dailies":{
+        "auth":"aqw",
+        "title":"Daily Farming list",
+        "description":"These items should be worked towards daily. They may take a while but some of these things are very useful. To see the original list, [click here](https://aqwg.weebly.com/farming-list.html)\n\u200b",
+        "fields":{
+            "📌 **Classes Farm**":[
+                "➣ [Lord of Order](https://aqwg.weebly.com/lord-of-order.html) - 10 days",
+                "➣ [Pyromancer](https://aqwg.weebly.com/pyromancer.html) - 28 days mem, 42 days non-mem",
+                "➣ [Cryomancer](https://aqwg.weebly.com/cryomancer.html) - 28 days mem, 42 days non-mem",
+                "➣ [The Collector](https://aqwg.weebly.com/the-collector.html) - 30 days mem, 90 days non-mem",
+                "➣ [ShadowScythe General](https://aqwg.weebly.com/shadowscythe-general.html) - 17 days mem, 50 days non-mem",
+                "➣ [DeathKnight Lord](http://aqwwiki.wikidot.com/deathknight-lord-class-merge) - <:tagMember:832844261435244594> 30 days mem - Complete Gravelyn's \"Slithering Shadows\" quest in /Shadowfall 30 times. Merge at /Bonecastle. This is member-only.",
+                "",
+                ""
+            ],
+            "📌 **Cosmetics Farm**":[
+                "➣ [Mad Weaponsmith](https://aqwg.weebly.com/mad-weaponsmith.html) - 30 days mem, 90 days non-mem",
+                "➣ [Cysero's SUPER Hammer](https://aqwg.weebly.com/cyseros-super-hammer.html) - 30 days mem, 90 days non-mem",
+                "➣ Bright Armour](http://aqwwiki.wikidot.com/bright-knight-armor)  - 50 days mem and non-mem - Complete Lady Celestia's \"Seal of Light\" quest in /Alteonbattle and \"Seal of Darkness\" quest in /Sepulchurebattle. You must have walked through the entire /Falcontower map and then have completed Falconreach Tower's quests.",
+                "➣ [Zorbak, Twilly, & Twig Pet](http://aqwwiki.wikidot.com/moglin-pets)  - 30 days each mem and non-mem - Complete Aria's \"Moglin Companions\" quest from /Battletown. Simply kill the Frogzards in /Nexus.",
+                "",
+                ""
+            ],
+            "📌 **Misc Farm**":[
+                "➣ [Treasure Chest Keys](http://aqwwiki.wikidot.com/magic-treasure-chest-key) <:tagMember:832844261435244594> - Monthly - Each month as a member, go to Valencia in /Battleon. She offers 2 free Treasure Chest Keys that you can then use to open up treasure chests with or sell for ACs.\n",
+                "➣ [Boosts & Wheel of Doom](https://aqwg.weebly.com/wheel-of-doom.html) - Daily/Weekly - Members get 2 free boosts per day; one from Ragnar in /Battleon and one from their Legend Spin of the Wheel of Doom in /Doom. Everyone gets a free weekly Wheel of Doom spin, using the 3 Gears of Doom. You can trade your XP Boost from the Wheel of Doom for another type in the Merge Shop.\n",
+                "➣ [Elders' Blood](http://aqwwiki.wikidot.com/elders-blood) - Complete Reens' \"Experiment 107: Elders' Blood Potion\" quest in /Arcangrove. You can also obtain these from Tendurrr's \"Assisting Crag & Bamboozle\" quest. These are mostly used in the Void Highlord grind."
+            ],
+            "​":[
+                "➣ [Crypto Token](http://aqwwiki.wikidot.com/crypto-token) - Complete Vinara's \"Odd's 'n' Ends\" quest in /Curio. Just defeat a Sneevil in /Boxes. Use the Crypto Tokens in Vinara's Odd Shop. Specifically, purchase Darkness Shards for the DoomBlades, Infernal Ice, Hearts for Frostval Barbarian, and some items from Cysero's Upgrade Items.\n",
+                "➣ [Dage's Scroll Fragment](http://aqwwiki.wikidot.com/dage-s-scroll-fragment) - Complete Loremaster Maya's \"Embrace Your Chaos (Daily)\" quest in /Mountdoomskull. These are used to obtain Drakath's Armour.\n",
+                "➣ [Shadow Shroud](http://aqwwiki.wikidot.com/shadow-shroud) - Complete Kunoichi's \"Shadow Embargo\" quest in /Akiba. These are used to merge the Legion Castle."
+            ],
+            "​​":[
+                "➣ [Mine Crafting](http://aqwwiki.wikidot.com/artix-s-quests#6) - Complete Artix's \"Mine Crafting\" quest. To complete it, join /Stalagbite and defeat the Balboa for 30 Raw Ore and an Axe of the Prospector. This is used for grinding Blinding Light of Destiny and Necrotic Sword of Doom.\n",
+                "➣ [Hard Core Metals](http://aqwwiki.wikidot.com/vayle-s-quests#2) - Complete Vayle's \"Hard Core Metals\" quest. To complete it, join /Stalagbite and defeat the Balboa for 30 Raw Ore and an Axe of the Prospector. This is used for grinding Sepulchure's DoomKnight Armour.\n",
+                "➣ [1v1 PvP Trophy](http://aqwwiki.wikidot.com/1v1-pvp-trophy) - Complete Dumoose's \"Victory Most Honourable\" quest in /Doomarena. You'll need to win 10 duels which you queue up for in the same map. I suggest duelling an alt if you have one to ensure easy and quick wins. Use these trophies in the Alpha Omega Merge, Doomwood Arena Shop, and Evolved Blood Orb's \"Flow Like Blood\" quest."
+            ],
+            "​​​":[
+                "➣ [1v1 Legion PvP Trophy](http://aqwwiki.wikidot.com/1v1-legion-pvp-trophy)- Complete Dumoose's \"Victory Most Deadly\" quest in /Legionpvp. You are required to win 10 duels in the /Dage1v1 map. Just like with regular 1v1 PvP Trophies, try duelling an alt instead of other people because it's much faster to do and you're certain to win. Use the trophies in the Underworld Team Shop and Underworld 1v1 Shop.\n",
+                "➣ [Power Gems](http://aqwwiki.wikidot.com/power-gem) - Talk to Valencia in /Battleon and select 'Get Power Gem!' to obtain one. Use them in the Power Gem Shop.\n"
+            ]
+        },
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/832855981675380766/unknown.png"
+    },
+    "seasonal":{
+        "auth":"aqw",
+        "title":"Seasonal Farming list",
+        "description":"TThese are the notable items that you should obtain throughout the year as you play. They are seasonal so you'll always have a chance to get them, as long as you don't mind waiting. To see the original list, [click here](https://aqwg.weebly.com/farming-list.html)",
+        "fields":{
+            "**January - February**":[
+                "➣ [Nulgath's Birthday Gift](http://aqwwiki.wikidot.com/nulgath-s-birthday-gift)",
+                "​"
+            ],
+            "**March - April**":[
+                "➣ [Legion DoomKnight](https://aqwg.weebly.com/legion-doomknight.html)",
+                "➣ [Timeless Dark Caster](https://aqwg.weebly.com/timeless-dark-caster.html)",
+                "➣ [Immortal Dark Caster](https://aqwg.weebly.com/immortal-dark-caster.html)",
+                "➣ [Shogun Paragon Pet](http://aqwwiki.wikidot.com/shogun-paragon-pet)",
+                "➣ [Evolved Leprechaun](http://aqwwiki.wikidot.com/evolved-leprechaun-merge)",
+                "➣ [Lucky Paragon Plate](http://aqwwiki.wikidot.com/evolved-leprechaun-merge)",
+                "​"
+            ],
+            "**April**":[
+                "➣ [Vorpal Bunny](http://aqwwiki.wikidot.com/vorpal-bunny)",
+                "​"
+            ],
+            "**October**":[
+                "➣ [Vampire Lord](https://aqwg.weebly.com/vampire-lord.html)",
+                "➣ [Evolved Pumpkin Lord](https://aqwg.weebly.com/evolved-pumpkin-lord.html)",
+                "​"
+            ],
+            "**September**":[
+                "➣ [Naval Commander](https://aqwg.weebly.com/naval-commander.html)",
+                "​"
+            ],
+            "**November**":[
+                "➣ [Abyssal Angel's Shadow](https://aqwg.weebly.com/abyssal-angels-shadow.html)",
+                "➣ [Dark Ultra OmniNight](http://aqwwiki.wikidot.com/dark-ultra-omninight-ac)",
+                "​"
+            ],
+            "**December - January**":[
+                "➣ [Frostval Barbarian](https://aqwg.weebly.com/frostval-barbarian.html)",
+                "➣ [Glacial Berserker](https://aqwg.weebly.com/glacial-berserker.html)",
+                "​"
+            ],
+            "**Music Events - Any Month**":[
+                "➣ [Dark Metal Necro Variants](https://aqwg.weebly.com/dark-metal-necro.html)"
+            ]
+        },
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/832858213480136704/unknown.png"
+    },
+    "Farming Guides":"header",
+    "blod":{
+        "auth":"aqw",
+        "title":"Blinding Light of Destiny Guide",
+        "description":"The following is a short guide of BLoD. For the full guide, [Click Here](https://aqwg.weebly.com/blinding-light-of-destiny.html).",
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/806909891175514202/bload.png",
+        "thumbnail":"https://cdn.discordapp.com/attachments/805367955923533845/806405085856530462/5-25-2019-435892_orig.png"
+    },
+    "sdka":{
+        "auth":"aqw",
+        "title":"Sepulchure's DoomKnight Armor Guide",
+        "description":"The following is a short guide of SDKA. For the full guide, [Click Here](https://aqwg.weebly.com/sepulchures-doomknight-armour.html)",
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/806914199187226721/sadak.png",
+        "thumbnail":"https://cdn.discordapp.com/attachments/805367955923533845/806914605397966849/profile-axell5-14.png"
+    },
+    "nsod":{
+        "auth":"aqw",
+        "title":"Necrotic Sword of Doom Guide",
+        "description":"The following is a guide of NSoD. Click one of the following links:\n\n➣ [**NSoD Farming Guide** by Vero](https://aqwg.weebly.com/necrotic-sword-of-doom.html)\n➣ [Don't know how to merge NSoD? Follow this merging guide](https://www.aqwworld.com/2017/02/how-to-get-necrotic-sword-of-doom-guide.html)",
+        "thumbnail":"https://media.discordapp.net/attachments/805367955923533845/806914928224501781/tmyi_orig.png"
+    },
+    "holb":{
+        "auth":"aqw",
+        "title":"Head of the Legion Beast material guide",
+        "description":"List of items required to merge HoLB.",
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/886166859420954684/unknown.png"
+    },
+    "Endgame Farming Guides":"header",
+    "w":{
+        "auth":"aqw",
+        "title":"Item booster lists",
+        "description":"__**Wikidot page of boosters.**__",
+        "fields":{
+            "**Attack Boosting Items**":[
+                "➣ [All Monsters](http://aqwwiki.wikidot.com/system:page-tags/tag/xdmg2monsters#pages)",
+                "➣ [Undeads](http://aqwwiki.wikidot.com/system:page-tags/tag/xdmg2undead#pages)",
+                "➣ [Dragon Monsters](http://aqwwiki.wikidot.com/system:page-tags/tag/xdmg2dragon#pages)",
+                "➣ [Elemental Monsters](http://aqwwiki.wikidot.com/system:page-tags/tag/xdmg2elemental#pages)",
+                "➣ [Human Monsters](http://aqwwiki.wikidot.com/system:page-tags/tag/xdmg2human#pages)",
+                "➣ [Chaos Monsters](http://aqwwiki.wikidot.com/system:page-tags/tag/xdmg2chaos#pages)"
+            ],
+            "**Boosters**":[
+                "➣ [XP Boosters](http://aqwwiki.wikidot.com/system:page-tags/tag/xpboost#pages)",
+                "➣ [CP Boosters](http://aqwwiki.wikidot.com/system:page-tags/tag/cpboost#pages)",
+                "➣ [Rep Boosters](http://aqwwiki.wikidot.com/system:page-tags/tag/repboost#pages)",
+                "➣ [Gold Boosters](http://aqwwiki.wikidot.com/system:page-tags/tag/goldboost#pages)"
+            ]
+        },
+        "thumbnail":"https://cdn.discordapp.com/attachments/805367955923533845/816964118912958474/monsterkind.png"
+    },
+    "bestarmy":{
+        "auth":"aqw",
+        "title":"Best Army Composition",
+        "description":"> Only a true Sailor of the Seven Eldtritch Seas deserve the title, `Primordial of War`.\n\n> **WoodenChessMan’s In Depth Guide to Armies**\nA basic setup we recommend for a 6 man army with no calendar classes are; LC(x2), LR, LoO, FB and Arachnomancer. Using a Calendar class for higher dps? Want to learn more/find alternative combos? Check it out [here](https://docs.google.com/document/d/1ef3vifE9WUWZcEMFb8m__LklbwTq-eWABYeO2b62yf4/edit).\n\n> **The Art of War by Kaosreepjou**\nA basic method to use an army is with simple Follower bots. Want to learn more ways to utilize your army? Check it out [here](https://docs.google.com/document/d/1u6Zx9wkkTl3nvCwJ7q1dEY4doOMubfgHD3VQP1gbGzY/edit#)",
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/873231770944929842/unknown.png"
+    },
+    "lockedzone":{
+        "auth":"aqw",
+        "title":"Maps with Requirements to access",
+        "description":"These maps have certain conditions in order for you to access them.\nFor the original page, click [here](http://aqwwiki.wikidot.com/system:page-tags/tag/locked#pages).",
+        "fieldsInline":{
+            "Zone List":[
+                "➣ [Banzai](http://aqwwiki.wikidot.com/banzai)",
+                "➣ [Battleground A](http://aqwwiki.wikidot.com/battleground-a)",
+                "➣ [Battleground B](http://aqwwiki.wikidot.com/battleground-b)",
+                "➣ [Battleground C](http://aqwwiki.wikidot.com/battleground-c)",
+                "➣ [Battleground D](http://aqwwiki.wikidot.com/battleground-d)",
+                "➣ [Battleground E](http://aqwwiki.wikidot.com/battleground-e)",
+                "➣ [Battleground F](http://aqwwiki.wikidot.com/battleground-f)",
+                "➣ [Binky (Location)](http://aqwwiki.wikidot.com/binky-location)",
+                "➣ [Chaos Lord](http://aqwwiki.wikidot.com/chaos-lord)",
+                "➣ [Darkovia Forest - Attack](http://aqwwiki.wikidot.com/darkovia-forest-attack)",
+                "➣ [Doom Vault](http://aqwwiki.wikidot.com/doom-vault)",
+                "➣ [Doom Vault B](http://aqwwiki.wikidot.com/doom-vault-b)",
+                "➣ [Doomwood Forest - Attack](http://aqwwiki.wikidot.com/doomwood-forest-attack)"
+            ],
+            "​​":[
+                 "➣ [Hollowdeep](http://aqwwiki.wikidot.com/hollowdeep)",
+                "➣ [Hyperium Starship](http://aqwwiki.wikidot.com/hyperium-starship)",
+                "➣ [Ledgermayne (Location)](http://aqwwiki.wikidot.com/ledgermayne-location)",
+                "➣ [Moon Yard](http://aqwwiki.wikidot.com/moon-yard)",
+                "➣ [Moon Yard B](http://aqwwiki.wikidot.com/moon-yard-b)",
+                "➣ [Shadow Lord Past](http://aqwwiki.wikidot.com/shadow-lord-past)",
+                "➣ [Shadow Realm](http://aqwwiki.wikidot.com/shadow-realm)",
+                "➣ [Shadow Realm Past](http://aqwwiki.wikidot.com/shadow-realm-past)",
+                "➣ [Superlowe](http://aqwwiki.wikidot.com/superlowe)",
+                "➣ [Tercessuinotlim](http://aqwwiki.wikidot.com/tercessuinotlim)",
+                "➣ [Vasalkar Lair - Attack (1)](http://aqwwiki.wikidot.com/vasalkar-lair-attack-1)",
+                "➣ [Willow Creek - Attack](http://aqwwiki.wikidot.com/willow-creek-attack)",
+                "➣ [Zephyrus (Location)](http://aqwwiki.wikidot.com/zephyrus-location)"
+            ]
+        }
+    },
+    "Others":"header",
+    "topsolo":{
+        "auth":"aqw",
+        "title":"Top Soloing Classes",
+        "description":"Solo Class rank Both DPS and survivability are taken into consideration, however, DPS has more influence in a class' ranking.",
+        "fields":{
+            "**Top List** (Best to worst)":[
+                "🔹 Corrupted Chronomancer ➣ [Spiral Carve]",
+                "🔹 Underworld Chronomance ➣ [Spiral Carve]",
+                "🔹 TimeKeeper ➣ [Spiral Carve]",
+                "🔹 Void Highlord ➣ [Awe Blast]",
+                "🔹 Eternal/Immortal Chronomancer ➣ [Spiral Carve]",
+                "🔹 Shadowwalker/stalker of Time ➣ [Mana Vamp]",
+                "🔹 Infinity Knight ➣ [Mana Vamp]",
+                "🔹 Yami no Ronin ➣ [Mana Vamp]",
+                "🔹 Dark Metal Necro ➣ [Spiral Carve]",
+                "🔹 LightCaster ➣ [Spiral Carve]",
+                "🔹 Legion Revenant ➣ [Awe Blast]",
+                "🔹 Great Thief ➣ [Spiral Carve]",
+                "🔹 Legion Doomknight ➣ [Spiral Carve]",
+                "🔹 Dragon of Time ➣ [Health Vamp]",
+                "🔹 Glacial Berserker ➣ [Awe Blast]",
+                "🔹 Chaos Slayer ➣ [Health Vamp]",
+                "🔹 Shaman ➣ [Mana Vamp]",
+                ""
+            ],
+            "**Honorable Mentions**":[
+                "🔹 __Chrono Assassin, Horc Evader, Leprechaun__ - These classes could not make it on the list because despite being practically unkillable, their DPS is quite poor in comparison.",
+                "",
+                "🔹 __Undead Slayer__ - One of the highest DPS classes vs Undead, especially bosses, and with the new respawn timer it now can carry over its buff to the next fight.",
+                ""
+            ],
+            "**Note**":[
+                "The rankings here are only accurate when the classes listed are used both properly and optimally.",
+                ""
+            ],
+            "**Credits**":[
+                "Thanks to IzMei for [creating](http://tiny.cc/ddqvtz) this list and the people that helped him; [u/xiaomole](https://www.reddit.com/u/xiaomole/), [u/Ancholo_](https://www.reddit.com/u/Ancholo_/), [u/nickcagenado](https://www.reddit.com/u/nickcagenado/)."
+            ]
+        }
+    },
+    "topfarm":{
+        "auth":"aqw",
+        "title":"Top Farming Classes",
+        "description":"Farming Class Rank Damage per second (DPS), time to kill (TTK), and survivability are taken into consideration with DPS and TTK having more influence in the rankings.",
+        "fields":{
+            "**Top List** (Best to worst)":[
+                "🔹 Nechronomancer ➣ [Health Vamp]",
+                "🔹 Master of Moglins ➣ [Awe Blast]",
+                "🔹 Legion Revenant ➣ [Awe Blast]",
+                "🔹 Vampire Lord [Health Vamp]",
+                "🔹 Dragonlord ➣ [Health Vamp]",
+                "🔹 Dragon of Time ➣ [Awe Blast]",
+                "🔹 Dark Lord ➣ [Awe Blast]",
+                "🔹 Blaze Binder ➣ [Awe Blast]",
+                "🔹 Chaos Slayer ➣ [Awe Blast]",
+                "🔹 Shaman ➣ [Mana Vamp]",
+                "🔹 Scarlet Sorceress ➣ [Spiral Carve]",
+                "🔹 Abyssal Angel's shadow ➣ [Awe Blast]",
+                ""
+            ],
+            "**Honorable Mentions**":[
+                "🔹 __Shadowwalker/stalker of Time__ - Fastest class for high HP farming such as the hydras in /hydrachallenge and /revenant farming.\n",
+                "🔹 __Frostval Barbarian__ - Objectively the fastest class for low HP farming provided the HP stays within its 5 thresholds (beats out LR and MoM by a mile). Use this aganst 2K HP mobs and spam the 5th skill.\n",
+                "🔹 __Yami no Ronin/Void Highlord__ - Has a niche in Legion Token or Tainted Core farming or where the enemies' HP is too high for FB to one-shot or typical farmers take too long to kill.",
+                ""
+            ],
+            "**Credits**":[
+                "Thanks to IzMei for [creating](http://tiny.cc/ddqvtz) this list and the people that helped him; [u/xiaomole](https://www.reddit.com/u/xiaomole/), [u/Ancholo_](https://www.reddit.com/u/Ancholo_/), [u/nickcagenado](https://www.reddit.com/u/nickcagenado/)."
+            ]
+        }
+    },
+    "topsup":{
+        "auth":"aqw",
+        "title":"Top Support Classes",
+        "description":"Support Class Rank Class mentioned here are ranked mostly from its supporting role while also taking other aspects such as GDPS as well as boosted survivability in mind.",
+        "fields":{
+            "**Top List** (Best to worst)":[
+                "🔹 Lord of Order ➣ [Awe Blast]",
+                "🔹 Stone Crusher ➣ [Awe Blast]",
+                "🔹 ArchPaladin ➣ [Spiral Carve]",
+                "🔹 Legion Revenant ➣ [Awe Blast]",
+                "🔹 LightCaster ➣ [Spiral Carve]",
+                "🔹 Frostval Barbarian ➣ [Awe Blast]",
+                "🔹 Chaos Slayer ➣ [Awe Blas]",
+                "🔹 Bard ➣ [Awe Blast]",
+                "🔹 Glacial Berserker ➣ [Awe Blast]",
+                "🔹 Master of Moglin ➣ [Awe Blast]",
+                "🔹 Arachnomancer ➣ [Mana Vamp]",
+                "🔹 MechaJouster ➣ [Mana Vamp]",
+                ""
+            ],
+            "**Honorable Mentions**":[
+                "🔹 __Ninja__ - shadow blade can apply a buff that turns enemy 100% blinded and is loopable with max haste\n",
+                "🔹 __Immortal/Eternal Chronomacer__ - Apply Unity Trough Time to Calendar class (2018 bellow) a buff under the specific condition that give it affected ally 30% in Haste, All out, Dodge.\n",
+                "🔹 __Light Mage__ - if Light caster is present, this is a valid option but there is a better option, unless you're looking for a breaking point for dodge then this is a secondary option to Lord of Order.\n",
+                "🔹 __Naval Commander__ - A nice support that gives you Small haste and HoT, while NC itself has high dodge with taunt to the enemy, making it an effective tank if paired with other support that can provide dodge buff.",
+                ""
+            ],
+            "**Note**":[
+                "The rankings here are only accurate when the classes listed are used both properly and optimally.",
+                ""
+            ],
+            "**Credits**":[
+                "Thanks to IzMei for [creating](http://tiny.cc/ddqvtz) this list and the people that helped him; [u/xiaomole](https://www.reddit.com/u/xiaomole/), [u/Ancholo_](https://www.reddit.com/u/Ancholo_/), [u/nickcagenado](https://www.reddit.com/u/nickcagenado/)."
+            ]
+        }
+    },
+    "Top Classes":"header",
+    "fdgraph":{
+        "auth":"aqw",
+        "title":"DPS over time Graph",
+        "description":"Note: Will add the suggestions of others later.",
+        "image":"https://cdn.discordapp.com/attachments/805367955923533845/878214581263147038/vhlgraph.png"
+    },
+    "vhlskills":{
+        "auth":"aqw",
+        "title":"Void Highlord Skillset Guide",
+        "description":"There are 4 combos, read them carefully to see which ones you need to use for what you want to do.\nFor a full guide, [Click Here](https://www.reddit.com/r/AQW/comments/btz2ol/void_highlord_skill_guide/)",
+        "thumbnail":"https://cdn.discordapp.com/attachments/805367955923533845/807165264352772106/5-27-2019-1127659_88.png"
+    },
+    "ynrskills":{
+        "auth":"aqw",
+        "title":"Yami no Ronin Skillset Guide",
+        "description":[
+            "**Offensive**: 4-3-4-4-2-4-2-4-2-4-5",
+            "**Note**: Begin the battle with 5 if the enemy died to 5 in the previous battle and you need to survive, wait for the *San effect* to fade before repeating this rotation.",
+            "",
+            "**Dodge** (100%): 5-3-2-5-2-2-5-2-2",
+            "**Note**: Replace 3 with 2 if low mana.",
+            "",
+            "For a full guide, [Click Here](https://www.reddit.com/r/AQW/comments/g5d02x/what_are_the_best_combos_for_yami_no_ronin/fo3gytu?utm_source=share&utm_medium=web2x&context=3)"
+        ],
+        "thumbnail":"https://cdn.discordapp.com/attachments/805367955923533845/807167295960907777/ynr.png"
+    },
+    "ssotskills":{
+        "auth":"aqw",
+        "title":"ShadowStalker of Time Skillset Guide",
+        "description":[
+            "The Following is a short guide to use SSoT.",
+            "",
+            "**Buildup**: 2-3-5-2-4-2-3",
+            "**Single Nuke**: 5-4-(2)-3",
+            "**Double Nuke**: 5-3-4-(2)-3",
+            "",
+            "For a full guide, [Click Here](https://www.reddit.com/r/AQW/comments/gsscy3/bossfight_god_ssot_the_reckoning/)"
+        ],
+        "thumbnail":"https://cdn.discordapp.com/attachments/805367955923533845/807167817946234880/male-18.png"
+    },
+    "ucmskills":{
+        "auth":"aqw",
+        "title":"Corrupted/Underworld Chronomancer",
+        "description":"**Skillset Guide** By SLGMA (/u/Nickcagenado)\nVariants of CCM are Underworld Chronomancer and Timeless Chronomancer. For the full guide, [Click Here](https://docs.google.com/document/d/1pHEYDB5JM2qSBFYwVs6Hkj17x24TElB1mtuQUyidv18/edit)",
+        "thumbnail":"https://cdn.discordapp.com/attachments/805367955923533845/807173105457823744/Untitled-1.png"
+    },
+    "ecskills":{
+        "auth":"aqw",
+        "title":"Eternal/Immortal Chronomancer Skillset Guide",
+        "description":"**Taryth's breakdown of IC/EC skill rotation, and what auras are applied at each cast.**",
+        "fields":{
+            "​":[
+                "**tl;dr**: 52525252525234, then repeat 52525252534, make sure you're actually hitting or you'll get erectile dysfunction and go cry on reddit about the class being nerfed",
+                "",
+                "**Going down the line**:",
+                "(optional 3s prestacked)",
+                "3- 10% dr",
+                "3- 20% dr",
+                "3- 30% dr",
+                "Setup Phase",
+                "5- Deadlock 1",
+                "2- Deadlock 2",
+                "5- Deadlock 3",
+                "2- Deadlock 4 > Enter Infinity > Deadlock 1 + Infinity Rift 1",
+                "5- Deadlock 2",
+                "2- Deadlock 3 + Infinity Rift 2",
+                "5- Deadlock 4 > 4th Dimension > Deadlock 1 + Temporal Rift 1",
+                "2- Deadlock 2 + Infinity Rift 3",
+                "5- Deadlock 3 + Temporal Rift 2",
+                "2- Deadlock 4 + Infinity Rift 4 > Deadlock 1",
+                "5- Deadlock 2 + Temporal Rift 3",
+                "2- Deadlock 3, Infinity Rift 4",
+                "3- Infinite Dmg (30% All out with Infinity Rift 4), -Enter Infinity, -4th Dimension",
+                "4- Nuke + Infinite Hit, -Temporal Rift"
+                ],
+            "​​": [
+                "**Set up is over, you now have 30% All out forever, the enemy cannot dodge, and you have 3 Deadlocks.**",
+                "5- Deadlock 4 > 4th Dimension > Deadlock 1 + Temporal Rift 1",
+                "2- Deadlock 2",
+                "5- Deadlock 3 + Temporal Rift 2",
+                "2- Deadlock 4 > Enter Infinity > Deadlock 1 + Infinity Rift 1",
+                "5- Deadlock 2 + Temporal Rift 3",
+                "2- Deadlock 3 + Infinity Rift 2",
+                "5- Deadlock 4 + Temporal Rift 4 > Deadlock 1",
+                "2- Deadlock 2 + Infinity Rift 3",
+                "5- Deadlock 3 + Temporal Rift 5",
+                "3- Refresh All out buff, give healing, -Enter Infinity, -4th Dimension",
+                "4- Nuke, -Temporal Rift",
+                "Repeat"
+            ]
+        },
+        "thumbnail":"https://cdn.discordapp.com/attachments/805367955923533845/807176800643317760/Untitled-2.png"
+    },
+    "Skill Guides":"header"
+}
