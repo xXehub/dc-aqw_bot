@@ -5,10 +5,8 @@ An AdventureQuest Worlds Discord Helper bot. Completely overhauled from scratch 
 &nbsp;
 
 **Details**
-- **Creator**: [Bloom Autist#4713](https://twitter.com/BloomAutist47)
+
 - **Current Version**: v.2.0.0
-- **Invitation Link**: [Bloom Bot](https://discord.com/api/oauth2/authorize?client_id=799639690176495637&permissions=2416298048&scope=applications.commands%20bot)
-- **Discord Support**: [discord.gg/YcXzxPt593](https://discord.gg/YcXzxPt593)
 
 **Prefix**
  - ` ; ` - Semi Colon
